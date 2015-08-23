@@ -20,7 +20,7 @@ colors:  #in hex code if not noted else
   link_hover: "#808080"
   footer_heading: "#ffffff"
   footer_content: "#bfc9d3"
-  calendar_background: "#202020"
+  calendar_background: "#505050"
   calendar_highlight: "#808080"
   
   
