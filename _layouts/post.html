@@ -7,9 +7,52 @@ layout: default
         <!-- SINGLE POST -->
         <div class="col-lg-8">
             <!-- Blog Post  -->
-            <p><img class="img-responsive" src="{{ "/assets/img/blog/" | prepend: site.baseurl }}{{ page.img }}"></p>
-            <a href="{{ page.url | prepend: site.baseurl }}"><h3 class="ctitle">{{ page.title }}</h3></a>
-            <p><csmall>{{ page.date | date: "%b %-d, %Y" }}. | By: {{ page.author }}</csmall></p>
+            <!--
+            <a href="{{ post.url | prepend: site.baseurl }}">
+                <img class="img-responsive" 
+                     src="{{ "/assets/img/blog/" | prepend: site.baseurl }}{{ page.img }}">
+            </a>
+            -->
+            <a href="{{ page.url | prepend: site.baseurl }}">
+                <h3 class="postTitle">{{ page.title }}</h3>
+            </a>
+            <small class="postAuthor">Autor: {{ page.author }}</small>
+            <p>
+                <time datetime="{{ page.date | date: "%Y-%m-%d" }}" class="icon">
+                    <em>
+                        {% assign weekday = page.date | date: "%a" %}
+                        {% case weekday %}
+                            {% when 'Sun' %} DOMINGO
+                            {% when 'Mon' %} SEGUNDA
+                            {% when 'Tue' %} TER&Ccedil;A
+                            {% when 'Wed' %} QUARTA
+                            {% when 'Thu' %} QUINTA
+                            {% when 'Fri' %} SEXTA
+                            {% when 'Sat' %} S&Aacute;BADO
+                        {% endcase %}
+                    </em>
+                    <strong>
+                        {% assign month = page.date | date: "%-m" %}
+                        {% case month %}
+                            {% when '1' %} JAN
+                            {% when '2' %} FEV
+                            {% when '3' %} MAR
+                            {% when '4' %} ABR
+                            {% when '5' %} MAI
+                            {% when '6' %} JUN
+                            {% when '7' %} JUL
+                            {% when '8' %} AGO
+                            {% when '9' %} SET
+                            {% when '10' %} OUT
+                            {% when '11' %} NOV
+                            {% when '12' %} DEZ
+                        {% endcase %}
+                        /
+                        {{ page.date | date: "%y" }}
+                    </strong>
+                    <span>{{ page.date | date: "%-d" }}</span>
+                </time>    
+            </p>
               
             {{ content }}
 

@@ -6,6 +6,10 @@ author: Diogo Romeo Rosanelli
 categories: 
 - blog
 - Banco de Dados
+tags:
+- blog
+- Banco de Dados
+- PostgreSQL
 img: 2015-08-22.png
 thumb: thumb-2015-08-22.png
 ---
