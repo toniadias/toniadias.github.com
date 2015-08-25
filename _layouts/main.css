@@ -1,12 +1,12 @@
 /* Theme Overrides */
 
 .navbar-brand {
-    font-family: PT Sans Narrow;
+    font-family: Dosis;
     font-size: 2.8em !important;
 }
 
 .navbar-default .navbar-nav > li > a {
-    font-family: PT Sans Narrow;
+    font-family: Dosis;
     font-size: 1.25em !important;
 }
 
@@ -15,7 +15,7 @@
 }
 
 .postTitle {
-    font-family: Ubunto;
+    font-family: Dosis;
     color: #202020;
     margin-top: 10px;
     margin-bottom: 0px;
