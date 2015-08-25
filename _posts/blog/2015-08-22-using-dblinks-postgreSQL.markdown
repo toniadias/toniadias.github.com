@@ -2,7 +2,7 @@
 layout: post
 title: "Usando DBLinks com PostgreSQL"
 date: 2015-08-22 15:00:00
-author: Diogo Romeo Rosanelli
+author: Tonia Dias
 categories: 
 - blog
 - Banco de Dados

@@ -1,11 +1,11 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: Diogo Rosanelli
+title: Tonia Dias
 description: "Personal Blog"
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
-url: "http://diogorosanelli.github.io"
+url: "http://toniadias.github.io"
 
 # Build settings
 markdown: kramdown
@@ -29,18 +29,16 @@ colors:  #in hex code if not noted else
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
   - title: facebook
-    url: http://www.facebook.com/diogo.rosanelli
-  - title: twitter
-    url: http://twitter.com/diogorosanelli
-  - title: instagram
-    url: http://instagram.com/diogorosanelli/
+    url: https://www.facebook.com/toniadias
+  - title: linkedin
+    url: https://br.linkedin.com/in/toniadias
     
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines: 
-    - Caçapava / São Paulo,
+    - São José dos Campos / São Paulo,
     - Brasil.
-email: diogo.rosanelli@gmail.com
+email: tdsouzza@gmail.com
 #tel: +55 (12) 99148 3856
 
 
