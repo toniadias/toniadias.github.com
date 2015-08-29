@@ -7,7 +7,7 @@ categories:
 - blog
 - tecnologia
 - sustentabilidade
-img: 20150302.jpg
+img: 20150302-1.jpg
 thumb: thumb-sustentabilidade.png
 ---
 
