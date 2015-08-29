@@ -18,6 +18,10 @@ html, body {
 	color: {{ site.colors.link_hover }};
 }
 
+a:hover {
+	color: {{ site.colors.link_hover }};
+}
+
 .postTitle {
     font-family: Dosis;
     color: #202020;
