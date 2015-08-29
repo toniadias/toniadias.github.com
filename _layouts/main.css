@@ -18,8 +18,12 @@ html, body {
 	color: {{ site.colors.link_hover }};
 }
 
-a:hover {
-	color: {{ site.colors.link_hover }};
+.social-color {
+	color: {{ site.colors.link_hover }} !important;
+}
+
+.social-color:hover {
+	color: {{ site.colors.link_hover }} !important;
 }
 
 .postTitle {
