@@ -7,7 +7,7 @@ categories:
 - blog
 - tecnologia
 - iot
-img: 20140816-1.jpg
+img: 20150326-1.jpg
 thumb: thumb-sustentabilidade.png
 ---
 
