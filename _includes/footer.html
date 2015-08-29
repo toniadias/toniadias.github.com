@@ -7,7 +7,11 @@
             -->
             <p style="padding-top: 15px; padding-bottom: 0px;">
                 {% for network in site.social %}
-                    <a href="{{ network.url }}" class="btn-social btn-outline"><i class="fa fa-{{ network.title }}"></i></a> 
+                    <ul class="nav navbar-nav">
+                        <li class="active">
+                            <a href="{{ network.url }}" class="btn-social btn-outline"><i class="fa fa-{{ network.title }}"></i></a> 
+                        </li>
+                    </ul>
                 {% endfor %}
             </p>
         </div>
