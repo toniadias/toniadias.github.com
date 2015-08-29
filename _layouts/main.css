@@ -61,7 +61,7 @@ p {
 }
 
 .post-button {
-    background: {{site.colors.primary}} !important;
+    background: {{site.colors.link_hover}} !important;
 }
 
 .postDate {
