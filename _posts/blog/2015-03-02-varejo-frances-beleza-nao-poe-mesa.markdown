@@ -7,6 +7,7 @@ categories:
 - blog
 - sustentabilidade
 - utilidades
+- alimentos
 img: 20150302-2.jpg
 thumb: thumb-sustentabilidade.png
 ---
