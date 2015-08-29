@@ -19,11 +19,11 @@ html, body {
 }
 
 .social-color {
-	color: {{ site.colors.link_hover }} !important;
+	color: {{ site.colors.footer_content }};
 }
 
 .social-color:hover {
-	color: {{ site.colors.link_hover }} !important;
+	color: {{ site.colors.link_hover }};
 }
 
 .postTitle {
