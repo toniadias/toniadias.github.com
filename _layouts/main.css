@@ -23,7 +23,7 @@ html, body {
 }
 
 .social-color:hover {
-	color: {{ site.colors.link_hover }};
+	color: {{ site.colors.link_hover }} !important;
 }
 
 .postTitle {
