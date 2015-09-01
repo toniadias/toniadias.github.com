@@ -5,8 +5,8 @@ date:   2015-03-31
 author: Tonia Dias
 categories: 
 - blog
-- agronegocio
-- meio ambiente
+- gis
+- tecnologia
 img: 20150331-1.jpg
 thumb: thumb-sustentabilidade.png
 ---
