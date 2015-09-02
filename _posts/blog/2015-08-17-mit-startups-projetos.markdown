@@ -20,5 +20,4 @@ Uma das principais pessoas a frente desta iniciativa é a pró-reitora Karen Gle
 
 A principal lição que as empresas e universidades brasileiras podem tirar desta referência é, que cada vez mais elas devem encurtar as distâncias entre Universidade e Empresa. As empresas sempre possuem demandas de melhorias de processo ou até mesmo de inovação, e as universidades podem auxiliar em todo este processo tecnológico, além do que nesta união de forças podem ser formadas novas empresas o que seria algo interessante para diversificar o mercado nacional.
 
-
 <i><b>Fonte: </b><a href="http://epocanegocios.globo.com/Ideias/noticia/2015/08/por-que-o-mit-da-certo.html">Época</a></i>
