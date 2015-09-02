@@ -16,6 +16,6 @@ Uma cidade monitorada pode fornecer uma melhor visibilidade para os governantes 
 
 Veja como é o monitoramento da cidade neste vídeo:
 
-<iframe src="https://player.vimeo.com/video/122716263" width="500px" height="281px" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe class="videoFrame" src="https://player.vimeo.com/video/122716263" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 <i><b>Fonte: </b><a href="http://gizmodo.uol.com.br/o-movimento-de-guerrilha-que-espalha-sensores-por-toda-a-sua-cidade/">GizModo</a></i>

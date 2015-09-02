@@ -33,6 +33,11 @@ html, body {
     margin-bottom: 0px;
 }
 
+.videoFrame {
+    width: 500px;
+    height: 281px;
+}
+
 .navbar-brand {
     padding-top: 10px !important;
 }
