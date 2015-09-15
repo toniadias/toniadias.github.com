@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cinco métricas para avaliar a qualidade de seus softwares"
+title:  "As Práticas Sustentáveis que já dão dinheiro a Empresas Brasileiras" 
 date:   2015-08-30
 author: Tonia Dias
 categories: 
