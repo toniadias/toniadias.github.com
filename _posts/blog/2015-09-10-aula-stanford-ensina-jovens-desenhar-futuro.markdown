@@ -5,7 +5,7 @@ date:   2015-09-10
 author: Tonia Dias
 categories: 
 - blog
-- desing think
+- desing thinking
 - educação
 - inovação
 img: 20150910-1.jpg
