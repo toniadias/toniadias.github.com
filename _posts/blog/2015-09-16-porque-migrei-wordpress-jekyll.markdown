@@ -22,4 +22,4 @@ Na contramão deste tipo de ferramenta de geração de conteúdo, surgiu o Jekyl
 
 Desta forma a publicação de posts e páginas se torna simples pois o fluxo é praticamente como se estivesse escrevendo (o que será postado) em um bloco de notas, utilizando o recurso do Github para publicação de páginas em um repositório. 
 
-<i><b>Fonte: </b><a href=" http://tableless.com.br/jekyll-servindo-sites-estaticos/">Tableless</a></i>
+<i><b>Fonte: </b><a href="http://tableless.com.br/jekyll-servindo-sites-estaticos/">Tableless</a></i>
