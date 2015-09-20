@@ -26,13 +26,6 @@ html, body {
 	color: {{ site.colors.link_hover }} !important;
 }
 
-.postTitle {
-    font-family: Dosis;
-    color: #202020;
-    margin-top: 10px;
-    margin-bottom: 0px;
-}
-
 .videoFrame {
     width: 500px;
     height: 281px;
@@ -46,10 +39,37 @@ html, body {
     color: {{ site.colors.link_hover }} !important;
 }
 
+.postTitle {
+    font-family: Dosis;
+    color: #202020;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
 .postAuthor {
+    text-align: left !important;
+    width: 50%;
     margin-top: 10px;
     margin-bottom: 0px;
     color: #AAA;
+}
+
+.post-button {
+    background: {{site.colors.link_hover}} !important;
+}
+
+.postDetailDate {
+    text-align: right!important;
+    width: 50%;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    color: #AAA;
+}
+
+.postDate {
+    width: auto;
+    color: {{site.colors.primary}} !important;
+    font-weight: bold !important;
 }
 
 p {
@@ -73,14 +93,6 @@ p {
     text-shadow: -1px 1px 8px #FFF, 1px -1px 8px #fff;
 }
 
-.post-button {
-    background: {{site.colors.link_hover}} !important;
-}
-
-.postDate {
-    color: {{site.colors.primary}} !important;
-    font-weight: bold !important;
-}
 
 #footerwrap {
     padding-top: 0px !important;
