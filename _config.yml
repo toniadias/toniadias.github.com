@@ -3,7 +3,7 @@
 # Site settings
 title: Think About
 description: "Personal Blog"
-analytics: #Google analytics code in the format XX-nnnnnnnn-n
+analytics: UA-67834385-1
 baseurl: "" #important: start with /
 url: "http://toniadias.github.io"
 
