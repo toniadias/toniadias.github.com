@@ -156,6 +156,54 @@ time.icon span {
     color: {{site.colors.calendar_background}};
 }
 
+.bookCover {
+    padding: 10px !important;
+    text-align: center !important;
+}
+
+.book {
+    padding: 5px !important;
+    text-align: center !important;
+}
+
+
+.bookTitle {
+    padding: 5px !important;
+    font-family: Dosis !important;
+    font-size: 1.5em !important;
+    font-weight: bold !important;
+    text-align: center !important;
+}
+
+.bookSubtitle {
+    padding: 5px !important;
+    font-family: Dosis !important;
+    font-size: 1.0em !important;
+    font-weight: bold !important;
+    text-align: center !important;
+}
+
+.bookDescription {
+    padding-top: 5px !important;
+    padding-bottom: 5px !important;
+    padding-right: 20px !important;
+    padding-left: 20px !important;
+    font-size: 0.8em !important;
+    text-align: justify
+}
+
+.bookStatus {
+    padding-top: 0px !important;
+    padding-bottom: 10px !important;
+    padding-right: 10px !important;
+    padding-left: 10px !important;
+    
+    font-family: Dosis !important;
+    font-size: 1.0em !important;
+    font-weight: bold !important;
+    text-align: center !important;
+}
+
 /*
 time.icon:hover, time.icon:focus
 {
