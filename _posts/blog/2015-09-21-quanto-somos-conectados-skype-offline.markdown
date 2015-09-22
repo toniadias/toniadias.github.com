@@ -22,7 +22,7 @@ No Twitter oficial do produto, a mensagem foi: "Estamos trabalhando para solucio
 
 Muitas empresas baseiam sua comunicação com clientes ou equipes dispersas geograficamente através do Skype. A falha foi relata hoje por volta das 6h da manhã e o serviço só foi retornar aos poucos por volta das 18h. 
 
-Isto nos faz refletir o quanto somos dependentes de uma ferramenta para realizar atividades simples como comunicação, e cabe pensar em quais alternativas temos quando estas ferramentas sofrem algum problema. Fica a reflexão !
+Isto nos faz refletir o quanto somos dependentes de uma ferramenta para realizar atividades simples como comunicação. Cabe a nós, pensarmos quais alternativas temos quando estas ferramentas sofrem algum problema e ficam fora de serviço. Fica a reflexão !
 
 <i><b>Fonte: </b><a href="http://www.tecmundo.com.br/skype/86723-skype-nao-funcionando-corretamente-milhoes-usuarios.htm">Tecmundo
 </a></i>
