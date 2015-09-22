@@ -48,7 +48,6 @@ html, body {
 
 .postAuthor {
     text-align: left !important;
-    width: 50%;
     margin-top: 10px;
     margin-bottom: 0px;
     color: #AAA;
@@ -60,7 +59,6 @@ html, body {
 
 .postDetailDate {
     text-align: right!important;
-    width: 50%;
     margin-top: 10px;
     margin-bottom: 0px;
     color: #AAA;
