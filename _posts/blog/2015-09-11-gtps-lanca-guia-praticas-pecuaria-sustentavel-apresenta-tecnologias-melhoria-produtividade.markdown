@@ -16,7 +16,7 @@ O grupo de Trabalho da Pecuária Sustentável (GTPS), lançou o Guia de Prática
 
 O guia está disponível gratuitamente na versão impressa e online que pode ser obtida através do link:
 
-<i>http://www.pecuariasustentavel.org.br/</i>
+<i><a href="http://www.pecuariasustentavel.org.br/">http://www.pecuariasustentavel.org.br/</a></i>
 
 O guia utiliza uma linguagem didática e visa orientar os produtores rurais sobre "como fazer" uma atividade e não apenas em "o que fazer", disseminando cada vez mais as tecnologias aplicadas na produção bovina assim como seu nível de complexidade, custo, implementação e evolução a curto, médio e longo prazo.
 
