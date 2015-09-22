@@ -17,15 +17,15 @@ Um software bem concebido, arquitetado e bem executado possui alta qualidade, é
 
 Por isso, existem cinco pontos que auxiliam o processo de validação de um software:
 
-* ALCANCE: capaz de lidar com várias tecnologias.
+* <b>ALCANCE:</b> capaz de lidar com várias tecnologias.
 
-* PROFUNDIDADE: capaz de fornecer uma visão completa da arquietura do aplicativo
+* <b>PROFUNDIDADE:</b> capaz de fornecer uma visão completa da arquietura do aplicativo
 
-* APLICAR ENGENHARIA DE SOFTWARE: capaz de validar a arquiterura da solução contra os principais padrões de projeto de mercado validando a melhor implementação.
+* <b>APLICAR ENGENHARIA DE SOFTWARE:</b> capaz de validar a arquiterura da solução contra os principais padrões de projeto de mercado validando a melhor implementação.
 
-* MÉTRICAS ACIONÁVEIS: orientar sobre como realizar melhorias e não apenas informar
+* <b>MÉTRICAS ACIONÁVEIS:</b> orientar sobre como realizar melhorias e não apenas informar
 
-* AUTOMATIZAÇÃO: capaz de realizar os pontos acima de forma automática para que ela possa ser realizada de forma ágil sem a necessidade de interação com um profissional da equipe.
+* <b>AUTOMATIZAÇÃO:</b> capaz de realizar os pontos acima de forma automática para que ela possa ser realizada de forma ágil sem a necessidade de interação com um profissional da equipe.
 
 Medir a qualidade é importante mas executar de forma correta é ainda melhor.
 
