@@ -36,5 +36,5 @@ Atualmente o setor de agronegócio tem colaborado muito com o desenvolvimento da
 
 Estas são somente algumas das aplicações que vem sendo desenvolvidas para área de agronegócio, porém todas tem como objetivo principal economizar com os custos de produção e ampliar a gestão das operações de uma propriedade rural. Isto ainda é muito novo no Brasil mas vem crescendo cada vez mais.
 
-<i><b>Fonte: </b><a href=" http://precisionagricultu.re/12-most-advanced-agricultural-technologies/">Precision Agriculture
+<i><b>Fonte: </b><a href="http://precisionagricultu.re/12-most-advanced-agricultural-technologies/">Precision Agriculture
 </a></i>
