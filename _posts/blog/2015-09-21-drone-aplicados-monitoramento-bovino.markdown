@@ -16,6 +16,7 @@ Neste vídeo podemos ver como um drone pode ser utilizado para monitorar o reban
 
 O drone pode ser utilizado para direcionar os animais para as áreas de pastagem e também monitorar como os animais estão sendo distribuídos pelo campo. É uma ótima ferramenta de controle sem que o agricultor precise acompanhar no local o rebanho.
 
-<iframe class="videoFrame" src="https://www.youtube.com/watch?v=YZfkTYHlm2M" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe class="videoFrame" width="560" height="315" src="https://www.youtube.com/embed/YZfkTYHlm2M" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 
 <i><b>Fonte: </b><a href="https://www.youtube.com/watch?v=YZfkTYHlm2M">Youtube</a></i>
