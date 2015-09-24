@@ -30,6 +30,6 @@ Podemos então identificar sete vantagens de obter uma análise de dados em temp
 
 * <b>Combate contínuo a fraude</b>
 
-Estas vantagens nos possibilita a tomada de decisão de forma mais ágil, se afetar o negócio.
+Estas vantagens nos possibilita a tomada de decisão de forma mais ágil, sem afetar o negócio.
 
 <i><b>Fonte: </b><a href="http://computerworld.com.br/sete-vantagens-de-realizar-analise-de-dados-em-tempo-real">Computer World</a></i>
