@@ -8,7 +8,7 @@ categories:
 - agronegocio
 - inovação
 - tecnologia
-img: 20150921-4.jpg
+img: 20150921-1.jpg
 thumb: thumb-sustentabilidade.png
 ---
 

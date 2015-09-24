@@ -8,7 +8,7 @@ categories:
 - bigdata
 - realtime
 - analise
-img: 20150921-1.jpg
+img: 20150921-4.jpg
 thumb: thumb-sustentabilidade.png
 ---
 
