@@ -12,7 +12,7 @@ img: 20150923-1.jpg
 thumb: thumb-sustentabilidade.png
 ---
 
-Cadas vez mais as organizações amadurecem a ideia de irem para cloud, mas esquecem de se atentarem para qual modelo mais adequado deve atender a seu negócio. A revolução digital que estamos vivendo agora é a revolução da utilização de serviços em nuvem. <!--more-->
+Cada vez mais as organizações amadurecem a ideia de irem para cloud, mas esquecem de se atentarem para qual modelo mais adequado deve atender a seu negócio. A revolução digital que estamos vivendo agora é a revolução da utilização de serviços em nuvem. <!--more-->
 
 Nos últimos cinco anos, devido ao grande volume de dados gerado no universo digital, a grande quantidade de aplicações que suportamos diariamente e seus usuários que utilizam seu dispositivo móvel para acesso e geração de conteúdo, tem levado as empresas a procurarem uma infraestrutura de serviços cada vez melhor e mais escalável para atender a este cenário tecnológico. Mas para que as empresas possam atuar aproveitando o máximo de recursos é preciso entender como esta tecnologia funciona.
 
