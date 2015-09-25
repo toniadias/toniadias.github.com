@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Lobster|Signika|Lobster+Two|Courgette);
+
 html, body {
     height: 100%;
 }
@@ -10,7 +12,7 @@ html, body {
 }
 
 .navbar-default .navbar-nav > li > a {
-    font-family: Dosis;
+    font-family: Signika;
     font-size: 1.25em !important;
 }
 
