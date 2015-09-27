@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "Dez aplicativos móveis úteis para os produtores rurais"
-date:   2015-04-27
+date:   2015-09-27
 author: Tonia Dias
 categories: 
 - blog
 - mobilidade
 - agricultura
 - tecnologia
-img: 20150427-1.jpg
+img: 20150927-1.jpg
 thumb: thumb-sustentabilidade.png
 ---
 
