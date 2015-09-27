@@ -5,9 +5,9 @@ date:   2015-09-04
 author: Tonia Dias
 categories: 
 - blog
-- cloud
-- tendencia
-- tecnologia
+- nanotecnologia
+- agronegócio
+- inovação
 img: 20150904-1.jpg
 thumb: thumb-sustentabilidade.png
 ---
