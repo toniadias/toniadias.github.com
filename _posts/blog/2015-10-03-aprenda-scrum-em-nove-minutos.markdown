@@ -20,7 +20,7 @@ Neste vídeo são apresentados os principais conceitos desta metodologia de moni
     <iframe class="videoFrame" src="https://www.youtube.com/embed/XfvQWnRgxG0" frameborder="0" allowfullscreen></iframe> 
 </p>
 
-<font color="red"><b><Curiosidade:</b></font><i>Você sabe por que chama Scrum?</i> 
+<font color="red"><b>Curiosidade:</b></font><i>Você sabe por que chama Scrum?</i></br>
 O nome Scrum foi inspirado em uma jogada de Rugby. Que é jogada onde os jogadores se reunem em torno da bola e tem como objetivo retirar os obstáculos á frente do jogador que correrá com a bola para que possa avançar o máximo possível do campo e marcar pontos.
 
 <i><b>Fonte: </b><a href="https://www.youtube.com/embed/XfvQWnRgxG0">Youtube</a></i>
