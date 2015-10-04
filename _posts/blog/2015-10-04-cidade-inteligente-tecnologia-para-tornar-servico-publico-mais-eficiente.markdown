@@ -12,7 +12,7 @@ img: 20151004-1.jpg
 thumb: thumb-sustentabilidade.png
 ---
 
-Através do uso de Big Data e da Internet das Coisas no serviço público, torna o processo de gestão municipal mais inteligente. Várias cidades pelo mundo já aplicam estes recursos tecnológicos em diversos níveis para apoiar as atividades de monitoramento e gestão dos serviços de saneamento, iluminação, transporte público. <!--more-->
+Através do uso de Big Data e da Internet das Coisas no serviço público, torna-se o processo de gestão municipal mais inteligente. Várias cidades pelo mundo já aplicam estes recursos tecnológicos em diversos níveis para apoiar as atividades de monitoramento e gestão dos serviços de saneamento, iluminação, transporte público. <!--more-->
 
 Estes serviços estão cada vez mais conectados à internet facilitando a troca de informações, além de gerar muitos dados que ao serem analisados auxiliam o processo de operacionalização destes serviços.
 
