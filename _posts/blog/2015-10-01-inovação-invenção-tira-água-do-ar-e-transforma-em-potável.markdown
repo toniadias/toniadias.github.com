@@ -16,7 +16,7 @@ Em meio a uma crise hídrica que já faz parte de nossas preocupações para um 
 
 A transformação física ocorre sem ajuda química alguma. Através da refrigeração e aquecimento é feito o processo de condensação e geração da água, descrevendo de forma simples. É como se a máquina produzisse uma nuvem e a espremesse, para tirar toda a água contida nela. O equipamento funciona de forma autônoma somente ligado a um gerador de energia.
 
-Este equipamento utilizou um dos conceitos mais antigos da ciência, já dizia Lavoisier "Na natureza, nada se cria, nada se perde, tudo se transforma", e é o que o equipamento faz, absorve o ar e recria condições atmosféricas ideais para extração da água, e ao final do processo, dependendo do uso ela pode ser potável, destilada ou mineral. 
+Este equipamento utilizou um dos conceitos mais antigos da ciência, já dizia Lavoisier "Na natureza, nada se cria, nada se perde, tudo se transforma", e é o que o equipamento faz. Absorve o ar e recria condições atmosféricas ideais para extração da água, e ao final do processo, dependendo do uso ela pode ser potável, destilada ou mineral. 
 
 Já imaginou esta tecnologia sendo aplicada em nossas propriedades agrícolas? Poderia gerar uma economia imensa dos custos de produção.
 
