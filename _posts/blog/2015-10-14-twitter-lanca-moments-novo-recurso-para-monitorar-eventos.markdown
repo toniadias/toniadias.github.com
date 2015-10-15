@@ -16,4 +16,4 @@ O Twitter atualmente está com um novo CEO, Jack Dorsey, a chave para recuperaç
 
 A empresa lançou então um novo produto chamado Moments, que permitirá aos usuários realizar a organização das informações geradas pelos usuários do Twitter para um evento específico, notícias de última hora, eventos ocorridos, dentre outros. A ferramenta auxilia no agrupamento das informações de um evento, através de configurações definidas pelo usuário. 
 
-<i><b>Fonte: </b><a href="http://exame.abril.com.br/tecnologia/noticias/twitter-lanca-moments-novo-recurso-para-monitorar-eventos">Exame</a></i>
+<i><b>Fonte: </b><a href="http://exame.abril.com.br/tecnologia/noticias/twitter-lanca-moments-novo-recurso-para-monitorar-eventos">Abril Exame</a></i>

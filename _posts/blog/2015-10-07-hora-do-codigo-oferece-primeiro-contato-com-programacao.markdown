@@ -7,7 +7,7 @@ categories:
 - blog
 - tecnologia
 - programação
-- evento
+- ensino
 img: 20151007-3.jpg
 thumb: thumb-sustentabilidade.png
 ---
