@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Empresa quer cultivar alimentos orgânicos nos telhados de prédios em Sâo Paulo"
+title:  "Empresa quer cultivar alimentos orgânicos nos telhados de prédios em São Paulo"
 date:   2015-10-15
 author: Tonia Dias
 categories: 
