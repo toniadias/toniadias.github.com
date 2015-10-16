@@ -29,9 +29,11 @@ html, body {
 }
 
 .videoFrame {
-    /*width: 500px;*/
+    width: 500px;
     height: 281px;
     position: relative;
+    margin-left: 15%;
+    margin-right: 15%;
     padding-top: 10px;
     padding-bottom: 10px;
 }
