@@ -256,6 +256,16 @@ time.icon:hover, time.icon:focus
       width: 264px;
       height: 65px;
   }
+    
+    .videoFrame {
+        width: 400px;
+        height: 281px;
+        position: relative;
+        margin-left: 5%;
+        margin-right: 5%;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
 }
 
 /* #### Mobile Phones Landscape #### */
@@ -264,6 +274,16 @@ time.icon:hover, time.icon:focus
       width: 264px;
       height: 65px;
   }
+    
+    .videoFrame {
+        width: 500px;
+        height: 281px;
+        position: relative;
+        margin-left: 15%;
+        margin-right: 15%;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
 }
 
 /* #### Mobile Phones Portrait or Landscape #### */
@@ -272,6 +292,16 @@ time.icon:hover, time.icon:focus
       width: 264px;
       height: 65px;
   }
+    
+    .videoFrame {
+        width: 500px;
+        height: 281px;
+        position: relative;
+        margin-left: 15%;
+        margin-right: 15%;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
 }
 
 /* #### iPhone 4+ Portrait or Landscape #### */
@@ -280,6 +310,16 @@ time.icon:hover, time.icon:focus
       width: 264px;
       height: 65px;
   }
+    
+    .videoFrame {
+        width: 400px;
+        height: 281px;
+        position: relative;
+        margin-left: 5%;
+        margin-right: 5%;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
 }
 
 /* #### Tablets Portrait or Landscape #### */
@@ -288,6 +328,16 @@ time.icon:hover, time.icon:focus
       width: 264px;
       height: 65px;
   }
+    
+    .videoFrame {
+        width: 500px;
+        height: 281px;
+        position: relative;
+        margin-left: 15%;
+        margin-right: 15%;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
 }
 
 /* #### Desktops #### */
@@ -296,4 +346,14 @@ time.icon:hover, time.icon:focus
       width: 325px;
       height: 80px;
   }
+    
+    .videoFrame {
+        width: 500px;
+        height: 281px;
+        position: relative;
+        margin-left: 15%;
+        margin-right: 15%;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
 }
