@@ -29,8 +29,14 @@ html, body {
 }
 
 .videoFrame {
-    width: 500px;
+    /*width: 500px;*/
     height: 281px;
+    position: relative;
+    
+    padding-top: 10px;
+    padding-left: 18%;
+    padding-right: 18%;
+    padding-bottom: 10px;
 }
 
 .navbar-brand {

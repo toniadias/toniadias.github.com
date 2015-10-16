@@ -12,16 +12,18 @@ layout: default
     </div>
     
     <div class="row">
+        <!--
         <div class="col-lg-4" style="text-align:center;">
             <img class="img-responsive" style="float: left; width: 350px; height: 300px; margin: 5px;"
                      src="{{ "/assets/img/blog/" | prepend: site.baseurl }}{{ page.img }}">
         </div>
-        <div class="col-lg-8" style="text-align:center;">
+        -->
+        <div class="col-lg-10" style="text-align:center;">
             <div class="row">
-                <div class="col-lg-6" style="text-align:left;">
+                <div class="col-lg-5" style="text-align:left;">
                     <small class="postAuthor" style="float: left; ">Autor: {{ page.author }}</small>
                 </div>
-                <div class="col-lg-6" style="text-align:right;">
+                <div class="col-lg-5" style="text-align:right;">
                     <small class="postDetailDate" style="float: right;">
                         <span>{{ page.date | date: "%-d" }}.</span>
                         <span>
@@ -46,8 +48,10 @@ layout: default
                 </div>
             </div>
         </div>
-        <div style="text-align: justify;">
-        {{ content }}
+        <div class="col-lg-10" style="text-align: justify;">
+            <img class="img-responsive" style="float: left; width: 350px; height: 300px; margin: 5px;"
+                     src="{{ "/assets/img/blog/" | prepend: site.baseurl }}{{ page.img }}">
+            {{ content }} 
         </div>
     </div>
 </div><!--/container -->
