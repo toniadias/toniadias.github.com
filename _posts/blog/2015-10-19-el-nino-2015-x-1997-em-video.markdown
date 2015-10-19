@@ -7,7 +7,7 @@ categories:
 - blog
 - clima
 - elnino
-- mudança
+- mudanca
 img: 20151019-2.jpg
 thumb: thumb-sustentabilidade.png
 ---
