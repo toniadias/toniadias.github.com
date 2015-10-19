@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "EL NIÑO 2015 X 1997, existem diferenças?"
+date:   2015-10-19
+author: Tonia Dias
+categories: 
+- blog
+- clima
+- el nino
+- mudança
+img: 20151019-2.jpg
+thumb: thumb-sustentabilidade.png
+---
+
+Em uma época onde o clima parece estar totalmente desregulado, inverno que não é tão frio, temporadas de chuva que não ocorrem, dentre outros eventos que tem se visto ao redor do mundo. Existe um fenômeno que influência o clima e tem causado tudo isto, que é o El Niño.<!--more-->
+
+Este fenômeno muda as correntes de ar e antera os ventos climáticos em várias partes do mundo, e o deste ano é considerado um dos mais fortes registrados, tão forte quanto o de 1997. A agência NOAA fez um vídeo para demonstrar as principais diferenças entre o fenômeno de 97 e o de agora. Veja o vídeo e entenda melhor como você é afetado:
+
+<p align="center">
+    <iframe class="videoFrame" src="https://www.youtube.com/embed/whsQbIwWjBo" frameborder="0" allowfullscreen></iframe> 
+</p>
+
+<i><b>Fonte: </b><a href="http://epoca.globo.com/colunas-e-blogs/blog-do-planeta/noticia/2015/10/el-nino-2015-x-1997-em-video.html">Globo Época</a></i>
