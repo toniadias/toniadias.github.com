@@ -6,7 +6,7 @@ author: Tonia Dias
 categories: 
 - blog
 - clima
-- el nino
+- elnino
 - mudança
 img: 20151019-2.jpg
 thumb: thumb-sustentabilidade.png
