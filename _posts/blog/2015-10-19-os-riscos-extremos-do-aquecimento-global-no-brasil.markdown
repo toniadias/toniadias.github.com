@@ -8,7 +8,7 @@ categories:
 - clima
 - aquecimento
 - estudo
-img: 20151019-4.jpg
+img: 20151019-5.jpg
 thumb: thumb-sustentabilidade.png
 ---
 
