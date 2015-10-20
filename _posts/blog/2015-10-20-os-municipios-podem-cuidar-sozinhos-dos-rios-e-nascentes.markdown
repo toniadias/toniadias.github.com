@@ -7,7 +7,7 @@ categories:
 - blog
 - nascente
 - agua
-- preservação
+- preservacao
 img: 20151020-1.jpg
 thumb: thumb-sustentabilidade.png
 ---
