@@ -5,8 +5,8 @@ date:   2015-10-22
 author: Tonia Dias
 categories: 
 - blog
-- uber
-- taxi
+- sustentabilidade
+- agua
 - saopaulo
 img: 20151022-1.jpg
 thumb: thumb-sustentabilidade.png
