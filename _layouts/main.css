@@ -4,6 +4,11 @@ html, body {
     height: 100%;
 }
 
+.container-full {
+  margin: 90px auto;
+  width: 100%;
+}
+
 /* Theme Overrides */
 
 .navbar-brand {
@@ -82,16 +87,10 @@ p {
 }
 
 .mdl-card__supporting-text {
-    width: 100% !important;
-}
-
-.mdl-card__supporting-text {
     text-align: justify !important;
-    margin: 2px;
-    padding: 0px !important;
-    padding-top: 10px !important;
-    padding-left: 10px !important;
-    padding-right: 10px !important;
+    margin: 2px 2px auto 2px;
+    width: 100% !important;
+    padding: 10px 10px 0px 10px !important;
 }
 
 .mdl-card__title-text {
@@ -214,7 +213,7 @@ time.icon span {
     padding-bottom: 10px !important;
     padding-right: 10px !important;
     padding-left: 10px !important;
-    
+
     font-family: Dosis !important;
     font-size: 1.0em !important;
     font-weight: bold !important;
@@ -256,7 +255,7 @@ time.icon:hover, time.icon:focus
       width: 264px;
       height: 65px;
   }
-    
+
     .videoFrame {
         width: 400px;
         height: 281px;
@@ -274,7 +273,7 @@ time.icon:hover, time.icon:focus
       width: 264px;
       height: 65px;
   }
-    
+
     .videoFrame {
         width: 500px;
         height: 281px;
@@ -292,7 +291,7 @@ time.icon:hover, time.icon:focus
       width: 264px;
       height: 65px;
   }
-    
+
     .videoFrame {
         width: 500px;
         height: 281px;
@@ -310,7 +309,7 @@ time.icon:hover, time.icon:focus
       width: 264px;
       height: 65px;
   }
-    
+
     .videoFrame {
         width: 400px;
         height: 281px;
@@ -328,7 +327,7 @@ time.icon:hover, time.icon:focus
       width: 264px;
       height: 65px;
   }
-    
+
     .videoFrame {
         width: 500px;
         height: 281px;
@@ -346,7 +345,7 @@ time.icon:hover, time.icon:focus
       width: 325px;
       height: 80px;
   }
-    
+
     .videoFrame {
         width: 500px;
         height: 281px;
