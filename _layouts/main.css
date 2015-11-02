@@ -252,8 +252,8 @@ time.icon:hover, time.icon:focus
 /* #### Mobile Phones Portrait #### */
 @media screen and (max-device-width: 480px) and (orientation: portrait){
   #logo {
-      width: 264px;
-      height: 65px;
+      width: 203px;
+      height: 50px;
   }
 
     .videoFrame {
@@ -270,8 +270,8 @@ time.icon:hover, time.icon:focus
 /* #### Mobile Phones Landscape #### */
 @media screen and (max-device-width: 640px) and (orientation: landscape){
   #logo {
-      width: 264px;
-      height: 65px;
+      width: 203px;
+      height: 50px;
   }
 
     .videoFrame {
@@ -288,8 +288,8 @@ time.icon:hover, time.icon:focus
 /* #### Mobile Phones Portrait or Landscape #### */
 @media screen and (max-device-width: 640px){
   #logo {
-      width: 264px;
-      height: 65px;
+      width: 203px;
+      height: 50px;
   }
 
     .videoFrame {
@@ -306,8 +306,8 @@ time.icon:hover, time.icon:focus
 /* #### iPhone 4+ Portrait or Landscape #### */
 @media screen and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2){
   #logo {
-      width: 264px;
-      height: 65px;
+      width: 203px;
+      height: 50px;
   }
 
     .videoFrame {
@@ -324,8 +324,8 @@ time.icon:hover, time.icon:focus
 /* #### Tablets Portrait or Landscape #### */
 @media screen and (min-device-width: 768px) and (max-device-width: 1024px){
   #logo {
-      width: 264px;
-      height: 65px;
+      width: 203px;
+      height: 50px;
   }
 
     .videoFrame {
