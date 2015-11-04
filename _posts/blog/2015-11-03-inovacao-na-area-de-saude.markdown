@@ -32,6 +32,7 @@ Hoje todo brasileiro com CPF válido, possui um número do cartão nacional de s
 Existem atualmente nas plataformas Android e iOS uma alternativa pouco conhecida que também permite a você registrar seu histórico de saúde. A partir do iOS 8 é possível registrar sua ficha médica, que fica acessível mesmo com o celular bloqueado. Esta é uma forma universal e padronizada de acesso a seus dados médicos e pode ser uma alternativa para os brasileiros usuários da plataforma iOS enquanto o aplicativo do Cartão SUS não fica disponível.
 
 <i><b>REFERÊNCIAS: </b></i>
+
 <i><a href="http://portalsaude.saude.gov.br/images/pdf/2013/agosto/28/cartilha-entendendo-o-sus-2007.pdf">Entenda o SUS</a></i>
 
 <i><a href="https://play.google.com/store/apps/details?id=br.gov.datasus.cnsdigital&hl=pt_BR">Google Play: Cartão SUS Digital</a></i>
