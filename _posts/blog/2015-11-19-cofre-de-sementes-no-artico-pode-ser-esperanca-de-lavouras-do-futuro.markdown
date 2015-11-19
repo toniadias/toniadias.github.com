@@ -12,7 +12,7 @@ img: 20151119-1.jpg
 thumb: thumb-sustentabilidade.png
 ---
 
-Em uma época onde temos a extinção de vários elementos da fauna e flora naturais, o mesmo ocorre com os nossos alimentos cultivados. Algumas culturas já não existem mais, outras estão sendo modificadas para atender as necessidades dos agricultores, <!--more--> mas existe uma esperança para estas culturas no futuro, a Arca de Sementes existente no ártico. 
+Em uma época onde temos a extinção de vários elementos da fauna e flora naturais, o mesmo ocorre com os nossos alimentos cultivados. Algumas culturas já não existem mais, outras estão sendo modificadas para atender as necessidades dos agricultores,<!--more--> mas existe uma esperança para estas culturas no futuro, a Arca de Sementes existente no ártico. 
 
 A BBC teve acesso exclusivo a construção que abriga mais de 5 mil sementes de todo o mundo dentro de uma montanha sob o gelo do ártico. 
 
