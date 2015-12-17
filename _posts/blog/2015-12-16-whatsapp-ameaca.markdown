@@ -4,10 +4,9 @@ title:  "WhatsApp recebe nova ameaça de suspensão"
 date:   2015-12-16
 author: Tonia Dias
 categories: 
-- blog
-- pecuaria
-- gestao
-- crise
+- servico
+- internet
+- whatsapp
 img: 20151216.jpg
 thumb: thumb-sustentabilidade.png
 ---
