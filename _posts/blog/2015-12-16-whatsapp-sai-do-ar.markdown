@@ -18,4 +18,4 @@ As operadoras de telefonia, que não são bobas e já procuram isto a tempos, se
 
 Trocar um serviço gratuito por um pago ? Acredito que os usuários dos serviços de telefonia não querem isto. Aliás, o WhatsApp nem é gratuito, pois você utiliza o pacote de dados que você já paga para sua operadora. Mas quem sai perdendo só são as operadoras ou o juiz que tomou a decisão, pois hoje existem alternativas no mercado ao WhatsApp que cumprem bem a função, como por exemplo o Telegram.
 
-<i><b>Fonte: </b><a href="http://revistagloborural.globo.com/Colunas/sebastiao-nascimento/noticia/2015/11/pecuaria-mar-revolto-ou-vento-em-popa.html">Globo Rural</a></i>
+<i><b>Fonte: </b><a href="http://www1.folha.uol.com.br/mercado/2015/12/1719934-justica-determina-bloqueio-do-whatsapp-em-todo-brasil-por-48-horas.shtml">Folha de São Paulo</a></i>
