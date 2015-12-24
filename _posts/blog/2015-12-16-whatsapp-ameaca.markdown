@@ -10,6 +10,7 @@ categories:
 - bloqueio
 img: 20151216.jpg
 thumb: thumb-sustentabilidade.png
+comments: true
 ---
 
 Vivemos em uma época onde na justiça brasileira um juiz pode determinar a suspensão de um serviço de internet por uma causa. Hoje o que ocorre é que mais uma vez o serviço de comunicação WhatsApp está sob ameaça de ser tirado do ar por 48 horas. Um juiz de São Bernardo do Campo determinou que o serviço fosse interrompido enquanto uma causa é julgada.<!--more-->
