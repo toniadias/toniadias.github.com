@@ -8,7 +8,7 @@ categories:
 - bigdata
 - tecnologia
 - artigos
-img: 20160104.jpg
+img: 20160104-1.jpg
 thumb: thumb-sustentabilidade.png
 comments: true
 ---

@@ -8,7 +8,7 @@ categories:
 - leitura
 - tecnologia
 - saude
-img: 20151224.jpg
+img: 20151224-1.jpg
 thumb: thumb-sustentabilidade.png
 comments: true
 ---

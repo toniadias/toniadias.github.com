@@ -8,7 +8,7 @@ categories:
 - comunicacao
 - internet
 - bloqueio
-img: 20151216.jpg
+img: 20151216-1.jpg
 thumb: thumb-sustentabilidade.png
 comments: true
 ---
