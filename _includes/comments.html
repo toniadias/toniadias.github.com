@@ -1,4 +1,6 @@
 {% if post.comments %}
+<h3>{{ post.comments }}</h3>
+<h3>{{ post.url | prepend: site.baseurl }}</h3>
 <div id="disqus_thread"></div>
 <script>
     /**
