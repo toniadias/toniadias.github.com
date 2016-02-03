@@ -1,24 +1,24 @@
 ---
 layout: post
-title:  "Chinês cria pílula de energia para smartphones"
-date:   2016-01-18
+title:  "Ponto de ônibus high-tech tem Wi-Fi e recarrega celular"
+date:   2016-02-02
 author: Tonia Dias
 categories: 
 - blog
-- energia
-- tecnologia
+- inovacao
+- cpbr
 - mobilidade
-img: 20160118-1.jpg
+img: 20160202-1.jpg
 thumb: thumb-sustentabilidade.png
 comments: true
 ---
 
-Atualmente os celulares são um item essencial e indispensável para as pessoas tal como as roupas ou alimento. Desta forma ficar sem bateria é algo que pode se tornar algo muito desesperador para certas pessoas. <!--more-->
+A companhia Otima apresentou no evento da Campus Party BR um ponto de onibus high-tech que tem um painel com um sistema interativo de rotas de onibus, wi-fi, camera de monitoramento e um carregador que permite conectar até cinco celulares.<!--more-->
 
-Existem no mercado carregadores portáteis que podem ser utilizados de forma móvel sem a necessidade de se estar conectado a uma fonte de energia, porém estes carregadores ainda são bem grandes e que torna o uso um pouco desconfortável. 
+A vantagem de ter um painel como este nos pontos é que você consegue visualizar as rotas do seu onibus e monitorar a hora que ele vai chegar. Se você depender de outro onibus sabe exatamente se vai dar tempo aproximado de pegar sua próxima condução.
 
-Pensando nisto, o chinês Tsung Chin-Khse criou o Mini Power, um carregador descartável que pode ser utilizado por 2, 4 ou 6 horas para realizar uma nova carga em seu dispositivo. 
+Essa tela também é resistente a vantalismo e variações climaticas na cidade, o que provova uma duração maior do equipamento.
 
 Conheça mais detalhes em:
 
-<i><b>Fonte: </b><a href="http://exame.abril.com.br/tecnologia/noticias/chines-cria-pilula-de-energia-para-smartphones">Abril Exame</a></i>
+<i><b>Fonte: </b><a href="http://exame.abril.com.br/tecnologia/noticias/ponto-de-onibus-high-tech-tem-wi-fi-e-recarrega-celular">Abril Exame</a></i>
