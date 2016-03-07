@@ -25,10 +25,15 @@ Então vocês devem estar se perguntando: Como então me tornar um líder e ter 
 O mercado se atenta basicamente para 6 competências principais que são um diferencial para qualquer jovem:
 
 1) <b>Ter o perfil facilitador:</b> ter a mente aberta para novas possibilidades e soluções.
+
 2) <b>Ter inteligência emocional:</b> esta é uma das competências primordiais, saber controlar com inteligência suas emoções.
+
 3) <b>Autoconhecimento:</b> ter uma visão sobre sua real capacidade e conhecer seus limitantes
+
 4) <b>Respeitar as opiniões dos mais experientes:</b> um bom lider sempre ouve e respeita a opinião dos mais experientes e quando necessária participa de discussões com sabedoria e respeito
+
 5) <b>Dar importância para Feedbacks:</b> um ponto sempre importante é saber dar e receber feedbacks, isto mantem a relação de liderança saudável.
+
 6) <b>Inspirar e Estimular a equipe:</b> um lider jovem sempre está motivado a alcançar seus objetivos e ter novos desafios, então um bom caminho é sempre estimular e motivar sua equipe.
 
 Ser um lider é um desejo de muitos mas é muito importante lembrar-se que de que um lider vai sempre a frente de seu time os levando todos para o sucesso em conjunto, portanto siga estas dicas e torne-se cada vez mais uma pessoa de liderança em seu trabalho.
