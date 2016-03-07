@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "Steve Jobs e seu legado"
-date:   2016-02-25
+date:   2016-02-24
 author: Tonia Dias
 categories: 
 - blog
 - inovacao
 - apple
 - jobs
-img: 20160225-1.jpg
+img: 20160224-1.jpg
 thumb: thumb-sustentabilidade.png
 comments: true
 ---
