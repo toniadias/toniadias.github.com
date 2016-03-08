@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Ada Lovelace a primeira programadora"
+date:   2016-03-08
+author: Tonia Dias
+categories: 
+- blog
+- mulher
+- tecnologia
+- programacao
+img: 20160308-1.jpg
+thumb: thumb-sustentabilidade.png
+comments: true
+---
+Para celebrar o dia internacional da mulher nada melhor do que falar da 'musa' da tecnologia Ada Lovelace. Augusta Ada Byron nasceu em 1815 mais conhecida como Condessa de Lovelace, foi a primeira programadora da história.
+
+Entre 1842 e 1843, ela criou notas sobre a máquina analítica de Babbage, que foi reconhecida como o primeiro modelo de computador. Suas anotações geraram o primeiro algoritmo especificamente criado para ser implementado.<!--more-->
+
+A Condessa de Locelace era filha única do escritor Lord Byron com sua esposa Anne Isabella Byron, e teve influencias familiares para as áreas de exatas desde cedo, isso porque sua mãe era uma estudiosa de matemática e seu pai era um poeta, mas com o objetivo de não deixar Ada seguir os caminhos do pai que não foi um exemplo pois abandonou a familia cedo, sua mãe a influenciou a seguir pelo caminho da matemática. 
+
+Ada Lovelace morreu em 1852 de câncer de útero e a máquina que ela ajudou a criar não foi construída enquanto ela estava viva. No entanto, em 1982, uma linguagem de programação estruturada ganhou o nome “Ada” como referência a uma das personagens mais representativas da história da tecnologia e a primeira programadora de computadores.
+
+O dia que celebra o seu legado é comemorado anualmente na segunda terça-feira de outubro. O “Ada Lovelace Day” tem como objetivo lembrar os feitos do sexo feminino nas ciências, tecnologia, engenharia e matemática, assim como encorajar que mais mulheres sigam este caminho e não teria data melhor como o dia da mulher para lembrarmos deste grande símbolo feminino na área tecnológica.
