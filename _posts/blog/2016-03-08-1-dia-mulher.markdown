@@ -12,9 +12,9 @@ img: 20160308-1.jpg
 thumb: thumb-sustentabilidade.png
 comments: true
 ---
-Para celebrar o dia internacional da mulher nada melhor do que falar da 'musa' da tecnologia Ada Lovelace. Augusta Ada Byron nasceu em 1815 mais conhecida como Condessa de Lovelace, foi a primeira programadora da história.
+Para celebrar o dia internacional da mulher nada melhor do que falar da 'musa' da tecnologia Ada Lovelace. Augusta Ada Byron nasceu em 1815 mais conhecida como Condessa de Lovelace, foi a primeira programadora da história. <!--more-->
 
-Entre 1842 e 1843, ela criou notas sobre a máquina analítica de Babbage, que foi reconhecida como o primeiro modelo de computador. Suas anotações geraram o primeiro algoritmo especificamente criado para ser implementado.<!--more-->
+Entre 1842 e 1843, ela criou notas sobre a máquina analítica de Babbage, que foi reconhecida como o primeiro modelo de computador. Suas anotações geraram o primeiro algoritmo especificamente criado para ser implementado.
 
 A Condessa de Locelace era filha única do escritor Lord Byron com sua esposa Anne Isabella Byron, e teve influencias familiares para as áreas de exatas desde cedo, isso porque sua mãe era uma estudiosa de matemática e seu pai era um poeta, mas com o objetivo de não deixar Ada seguir os caminhos do pai que não foi um exemplo pois abandonou a familia cedo, sua mãe a influenciou a seguir pelo caminho da matemática. 
 
