@@ -6,8 +6,8 @@ author: Tonia Dias
 categories: 
 - blog
 - sustentabilidade
-- alimento
-- organico
+- iot
+- agronegocio
 img: 20160413.png
 thumb: thumb-sustentabilidade.png
 comments: true

@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Internet das Coisas chega ao Agronegócio"
+title:  "6 Etapas Indispensáveis para Gestão de Projetos"
 date:   2016-04-13
 author: Tonia Dias
 categories: 
 - blog
-- sustentabilidade
-- alimento
-- organico
+- gestao
+- projetos
+- monitoramento
 img: 20160414.png
 thumb: thumb-sustentabilidade.png
 comments: true
