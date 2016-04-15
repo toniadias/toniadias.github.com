@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "Internet das Coisas chega ao Agronegócio"
-date:   2016-04-13
+date:   2016-04-12
 author: Tonia Dias
 categories: 
 - blog
 - sustentabilidade
 - iot
 - agronegocio
-img: 20160413.png
+img: 20160412.png
 thumb: thumb-sustentabilidade.png
 comments: true
 ---

@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "6 Etapas Indispensáveis para Gestão de Projetos"
-date:   2016-04-14
+date:   2016-04-13
 author: Tonia Dias
 categories: 
 - blog
 - gestao
 - projetos
 - monitoramento
-img: 20160414.png
+img: 20160413.png
 thumb: thumb-sustentabilidade.png
 comments: true
 ---
