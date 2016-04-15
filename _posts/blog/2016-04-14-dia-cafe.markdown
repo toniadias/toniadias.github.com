@@ -6,7 +6,7 @@ author: Tonia Dias
 categories: 
 - blog
 - cafe
-- bemeficios
+- beneficios
 - saude
 img: 20160414.png
 thumb: thumb-sustentabilidade.png
