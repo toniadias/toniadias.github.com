@@ -21,4 +21,4 @@ Esta é uma grande oportunidade de se diseminar conhecimento, através de cursos
 
 E você, como tem se informado sobre tecnologia e sobre as novidades ?
 
-<i><b>Fonte: </b><a href="http://www.areasverdesdascidades.com.br/2014/04/dia-nacional-da-conservacao-do-solo15.html">Áreas Verdes Cidades</a></i>
+<i><b>Fonte: </b><a href="http://exame.abril.com.br/tecnologia/noticias/usp-ganha-centro-de-desenvolvimento-de-aplicativos">Exame</a></i>
