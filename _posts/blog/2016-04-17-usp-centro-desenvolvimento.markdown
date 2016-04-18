@@ -13,7 +13,7 @@ thumb: thumb-sustentabilidade.png
 comments: true
 ---
 
-O desenvolvimento de aplicativos é uma das áreas que mais tem crescido ultimamente, e tem atraído cada vez mais jovens que tem focados no desenvolvimento de aplicações para utilização em dispositivos móveis. Tendo a visão desta evolução a USP buscando disseminar cada vez mais o conhecimento nesta área, através do Departamento de Engenharia de Produção da Escola Politécnica inaugurou um centro de treinamento tecnológico. 
+O desenvolvimento de aplicativos é uma das áreas que mais tem crescido ultimamente, e tem atraído cada vez mais jovens que tem focados no desenvolvimento de aplicações para utilização em dispositivos móveis. Tendo a visão desta evolução a USP buscando disseminar cada vez mais o conhecimento nesta área, através do Departamento de Engenharia de Produção da Escola Politécnica inaugurou um centro de treinamento tecnológico. <!--more-->
 
 Através deste novo centro de estudos será possível que os alunos tenham acesso as mais novas tecnologias disponíveis para o desenvolvimento de aplicações. Estarão disponíveis hardwares e softwares para o processo de aprendizagem. Para programação de aplicativos estarão disponíveis os sistemas Android e Tizen disponíveis em grande parte dos dispositivos móveis e principalmente dos monitores de atividades (wearables) utilizados largamente pelas pessoas atualmente.
 
