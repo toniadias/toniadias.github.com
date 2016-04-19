@@ -1,24 +1,24 @@
 ---
 layout: post
-title:  "Algorítmo do Google pode estar decidindo em quem você vota"
-date:   2016-04-18
+title:  "Centro de Desenvolvimento de Aplicativos USP"
+date:   2016-04-17
 author: Tonia Dias
 categories: 
 - blog
 - tecnologia
-- pesquisa
-- eleicoes
-img: 20160418.png
+- desenvolvimento
+- aplicativos
+img: 20160417.png
 thumb: thumb-sustentabilidade.png
 comments: true
 ---
 
-Hoje em dia quando se quer encontrar alguma informação você recorre a uma ferramenta de busca, e atualmente a mais popular e importante é o Google. Estas ferramentas são cada vez mais utilizadas para buscar qualquer tipo de informação. A informação que tem sido frequentemente procurada são dados a respeito de políticos. A facilidade de se obter informações sobre sua atuação e histórico em cargos públicos além dos ideais que defendem é um grande atrativo para os eleitores. Considerando este cenário, dois pesquisadores Robert Epstein e Ronald Robertson analisaram o efeito de manipulação dos buscadores em cinco eleições diferentes. <!--more-->
+O desenvolvimento de aplicativos é uma das áreas que mais tem crescido ultimamente, e tem atraído cada vez mais jovens que tem focados no desenvolvimento de aplicações para utilização em dispositivos móveis. Tendo a visão desta evolução a USP buscando disseminar cada vez mais o conhecimento nesta área, através do Departamento de Engenharia de Produção da Escola Politécnica inaugurou um centro de treinamento tecnológico. <!--more-->
 
-Nos estudos realizados, os pesquisadores pediram para voluntários consultarem informações sobre candidatos em um mecanismo de busca similar ao Google criado por eles, porém este mecanismo de busca ordenava de diferentes formas o resultado. Para um grupo de voluntários eram exibidos links favoráveis ao candidato pesquisado e para outro grupo de voluntários eram mostrados links favoráveis ao candidato opositor ao pesquisado.
+Através deste novo centro de estudos será possível que os alunos tenham acesso as mais novas tecnologias disponíveis para o desenvolvimento de aplicações. Estarão disponíveis hardwares e softwares para o processo de aprendizagem. Para programação de aplicativos estarão disponíveis os sistemas Android e Tizen disponíveis em grande parte dos dispositivos móveis e principalmente dos monitores de atividades (wearables) utilizados largamente pelas pessoas atualmente.
 
-Depois do experimento era solicitado para que todos votassem em um candidato, e 48% dos participantes optavam pelo candidato apresentado pelo buscador durante o experimento, coprovando desta forma o efeito de manipulação. Para comprovar o resultado do estudo em uma eleição real, foi realizado na Índia em 2014 em uma eleição real, constatando com os entrevistados a ocorrência do efeito de manipulação em torno de 25% relacionados ao resultado da eleição. Isto só indica o quanto as pessoas são influenciáveis.
+Esta é uma grande oportunidade de se diseminar conhecimento, através de cursos livres e intensivos sobre temas variados que podem sempre ser uma grande opção para melhoria e aprimoramento de conhecimento.
 
-E você se deixa manipular por fatores externos ou têm suas próprias opiniões. Fique atento !!!
+E você, como tem se informado sobre tecnologia e sobre as novidades ?
 
-<i><b>Fonte: </b><a href="http://exame.abril.com.br/tecnologia/noticias/algoritmo-do-google-pode-estar-decidindo-em-quem-voce-vota">Exame</a></i>
+<i><b>Fonte: </b><a href="http://exame.abril.com.br/tecnologia/noticias/usp-ganha-centro-de-desenvolvimento-de-aplicativos">Exame</a></i>
