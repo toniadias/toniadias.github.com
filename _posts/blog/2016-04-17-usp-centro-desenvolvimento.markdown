@@ -6,16 +6,16 @@ author: Tonia Dias
 categories: 
 - blog
 - tecnologia
-- desenvolvimento
-- aplicativos
+- pesquisa
+- eleicoes
 img: 20160418.png
 thumb: thumb-sustentabilidade.png
 comments: true
 ---
 
-Hoje em dia quando se quer encontrar alguma informação você recorre a uma ferramenta de busca, e atualmente a mais popular e importante é o Google. Estas ferramentas são cada vez mais utilizadas para buscar informações de políticos, pois é uma das melhores formas de se obter informações sobre sua atuação e histórico atuando em cargos públicos. Considerando este cenário, dois pesquisadores Robert Epstein e Ronald Robertson analisaram o efeito de manipulação dos buscadores em cinco eleições diferentes. <!--more-->
+Hoje em dia quando se quer encontrar alguma informação você recorre a uma ferramenta de busca, e atualmente a mais popular e importante é o Google. Estas ferramentas são cada vez mais utilizadas para buscar qualquer tipo de informação. A informação que tem sido frequentemente procurada são dados a respeito de políticos. A facilidade de se obter informações sobre sua atuação e histórico em cargos públicos além dos ideais que defendem é um grande atrativo para os eleitores. Considerando este cenário, dois pesquisadores Robert Epstein e Ronald Robertson analisaram o efeito de manipulação dos buscadores em cinco eleições diferentes. <!--more-->
 
-Nos estudos realizados, os pesquisadores pediram para voluntários consultarem informações sobre candidatos em mum mecanismo de busca similar ao Google criado por eles, porém este mecanismo de busca ordenava de diferentes formas o resultado. Para um grupo de voluntários eram exibidos links favoráveis ao candidato pesquisado e para outro grupo de voluntários eram mostrados links favoráveis ao candidato opositor ao pesquisado.
+Nos estudos realizados, os pesquisadores pediram para voluntários consultarem informações sobre candidatos em um mecanismo de busca similar ao Google criado por eles, porém este mecanismo de busca ordenava de diferentes formas o resultado. Para um grupo de voluntários eram exibidos links favoráveis ao candidato pesquisado e para outro grupo de voluntários eram mostrados links favoráveis ao candidato opositor ao pesquisado.
 
 Depois do experimento era solicitado para que todos votassem em um candidato, e 48% dos participantes optavam pelo candidato apresentado pelo buscador durante o experimento, coprovando desta forma o efeito de manipulação. Para comprovar o resultado do estudo em uma eleição real, foi realizado na Índia em 2014 em uma eleição real, constatando com os entrevistados a ocorrência do efeito de manipulação em torno de 25% relacionados ao resultado da eleição. Isto só indica o quanto as pessoas são influenciáveis.
 
