@@ -8,7 +8,7 @@ categories:
 - oratoria
 - habitos
 - falar
-img: 20160419.png
+img: 20160420.png
 thumb: thumb-sustentabilidade.png
 comments: true
 ---
