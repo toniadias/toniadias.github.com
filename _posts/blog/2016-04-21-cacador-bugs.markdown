@@ -13,7 +13,7 @@ thumb: thumb-sustentabilidade.png
 comments: true
 ---
 
-Neste mês o governo dos EUA lançou um programa para que pessoas encontrem erros em softwares desenvolvidos para o Departamento de Defesa. Mas você pode pensar, qual o benefício disto e o que me atrairia a encontrar estes problemas nos aplicativos americanos ? As respostas são simples, o governo ganha pois tem milhões de testadores de forma gratuita, e você ao entrar pro programa concorre a uma recompensa de U$ 150 mil dólares. É uma relação de ganha-ganha.
+Neste mês o governo dos EUA lançou um programa para que pessoas encontrem erros em softwares desenvolvidos para o Departamento de Defesa. Mas você pode pensar, qual o benefício disto e o que me atrairia a encontrar estes problemas nos aplicativos americanos ? As respostas são simples, o governo ganha pois tem milhões de testadores de forma gratuita, e você ao entrar pro programa concorre a uma recompensa de U$ 150 mil dólares. É uma relação de ganha-ganha. <!--more-->
 
 Para o governo, ter uma centena ou milhares de testadores em seus softwares aumenta e muito as chances de localizar qualquer erro técnico que possa existir em um software utilizado pelo Departamento de Defesa. Para montar uma estrutura semelhante em uma empresa especializada, seriam gastos milhões de dolares e talvez nem todas as brechas seriam detectadas.
 
