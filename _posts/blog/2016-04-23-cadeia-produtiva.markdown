@@ -23,4 +23,6 @@ Quando compramos um produto no mercado mal imaginamos todo o processo que este p
 
 E você sabia que por trás dos produtos que você compra no mercado existia toda uma cadeia de produção envolvida ? Imaginava que para uma simples garrafa de água existiam todos estes passos ? Deixe seu comentário.
 
-<iframe class="videoFrame" src="https://www.youtube.com/watch?v=E1viFYWocGU" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p align="center">
+    <iframe class="videoFrame" src="https://www.youtube.com/watch?v=E1viFYWocGU" frameborder="0" allowfullscreen></iframe> 
+</p>
