@@ -13,7 +13,9 @@ thumb: thumb-sustentabilidade.png
 comments: true
 ---
 
-O Engenheiro que atuou no algorítmo de recomendações utilizado pela Netflix, tem um novo projeto e quer atuar na aceleração do diagnóstico de câncer. Antonio Molins, um espanhol radicado nos EUA é uma das mentes por trás do algorítmo de pesquisas criado para a Netflix que se utiliza de sistemas de recomendação e mineração de dados. Aos 35 anos, o espanhol que reside atualmente em São Francisco (EUA) é um curioso e sempre procura saber como as coisas funcionam e possui a ambição necessária para procurar soluções. Começou sua carreira na Universidad Politécnica de Madri, mas mudou-se para os EUA onde entrou para o programa de PhD nas áreas que mais sonhava trabalhar engenharia e medicina, que foi ministrado em parceria entre Harvard e o MIT. <!--more-->
+O Engenheiro que atuou no algorítmo de recomendações utilizado pela Netflix, tem um novo projeto e quer atuar na aceleração do diagnóstico de câncer. Antonio Molins, um espanhol radicado nos EUA é uma das mentes por trás do algorítmo de pesquisas criado para a Netflix que se utiliza de sistemas de recomendação e mineração de dados. Aos 35 anos, o espanhol que reside atualmente em São Francisco (EUA) é um curioso e sempre procura saber como as coisas funcionam e possui a ambição necessária para procurar soluções. <!--more-->
+
+Começou sua carreira na Universidad Politécnica de Madri, mas mudou-se para os EUA onde entrou para o programa de PhD nas áreas que mais sonhava trabalhar engenharia e medicina, que foi ministrado em parceria entre Harvard e o MIT. 
 
 Antonio é um cientista de dados que trabalhou em vários algorítmos para diversas áreas, mas o principal é o de recomendações criado para a Netflix. Neste ele procura conhecer melhor a experiência dos usuários dentro da aplicação identificando as diferenças e as preferências dos usuários, e em horários distintos. Tudo é diferente para cada pessoa, dependendo da hora e de quem você é. Isto gera páginas de recomendações diferentes.
 
