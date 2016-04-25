@@ -13,7 +13,7 @@ thumb: thumb-sustentabilidade.png
 comments: true
 ---
 
-Nesse feriado estive em Caxambu / MG, no Parque das Águas e vi uma atitude que está contribuindo com as creches e entidades sócio-assistenciais do município, que é o projeto de Horta Familiar. Na horta não é usado nenhum tipo de agrotóxico, o que garante um enriquecimento na alimentação de quem consome estes produtos orgânicos. Estes alimentos são colhidos e levados para o Centro de Referência de Assistência Social (CRAS) que distribui para algumas entidades como: Associação de Pais e Amigos Excepcionais (APAE), Asilo Santo Antônio, e para a Associação e Casa da Criança e do Adolescente.
+Nesse feriado estive em Caxambu / MG, no Parque das Águas e vi uma atitude que está contribuindo com as creches e entidades sócio-assistenciais do município, que é o projeto de Horta Familiar. Na horta não é usado nenhum tipo de agrotóxico, o que garante um enriquecimento na alimentação de quem consome estes produtos orgânicos. Estes alimentos são colhidos e levados para o Centro de Referência de Assistência Social (CRAS) que distribui para algumas entidades como: Associação de Pais e Amigos Excepcionais (APAE), Asilo Santo Antônio, e para a Associação e Casa da Criança e do Adolescente.<!--more-->
 
 O espaço é aberto para as pessoas que quiserem desenvolver o manejo em uma horta do local e além disso, funciona como um “laboratório” pois possui acompanhamento técnico de profissionais e voluntários nas áreas agrícolas, que passam aos agricultores os conhecimentos básicos necessários para se ter uma horta orgânica. 
 
