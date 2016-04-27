@@ -22,7 +22,7 @@ Segundo seus criadores é possível realizar de duas a três cargas. Já pensou 
 E você o que achou da ideia ? Você teria maior cuidado com as árvores e plantas se elas lhe oferecessem este recurso de recarga de energia ?
 
 <p align="center">
-    <iframe class="videoFrame" src="https://www.youtube.com/watch?v=QO1p32B-pqk&feature=youtu.be" frameborder="0" allowfullscreen></iframe>
+    <iframe class="videoFrame" src="https://youtu.be/QO1p32B-pqk" frameborder="0" allowfullscreen></iframe>
 </p>
 
 <i><b>Fonte: </b><a href="http://exame.abril.com.br/tecnologia/noticias/estudantes-criam-vaso-de-planta-que-recarrega-celular-veja">Exame</a></i>
