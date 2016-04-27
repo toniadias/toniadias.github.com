@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""
+title:  "Diferenças nos investimentos de internet entre EUA e Brasil"
 date:   2016-04-27
 author: Tonia Dias
 categories: 
@@ -13,7 +13,7 @@ thumb: thumb-sustentabilidade.png
 comments: true
 ---
 
-O Google em uma iniciativa inovadora vem oferecendo de forma gratuita aos moradores de quatro cidades americadas, banda larga de 5Mbps via fibra óptica. Esta iniciativa surgiu a partir de um programa do Governo Federal chamdo "Connect Home". O serviço de internet banda larga via fibra óptica de 1Gb, já é oferecido em oito cidades americanas porém com um custo aos moradores. A ideia do plano de governo é atender a cerca de 30 cidades. Atualmente as cidades que tem o serviço sem custo são: Atlanta, Durham, Nashviller e Kansas City.
+O Google em uma iniciativa inovadora vem oferecendo de forma gratuita aos moradores de quatro cidades americadas, banda larga de 5Mbps via fibra óptica. Esta iniciativa surgiu a partir de um programa do Governo Federal chamdo "Connect Home". O serviço de internet banda larga via fibra óptica de 1Gb, já é oferecido em oito cidades americanas porém com um custo aos moradores. A ideia do plano de governo é atender a cerca de 30 cidades. Atualmente as cidades que tem o serviço sem custo são: Atlanta, Durham, Nashviller e Kansas City. <!--more-->
 
 Enquanto isto no Brasil, as operadoras de Internet Banda Larga buscaram recentemente justificatvas para criar um sistema de bloqueio e limitação do uso da rede conforme o consumo que você realiza mensalmente. 
 
