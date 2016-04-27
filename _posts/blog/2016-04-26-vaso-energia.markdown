@@ -5,9 +5,9 @@ date:   2016-04-26
 author: Tonia Dias
 categories: 
 - blog
-- horta
-- familiar
-- agricultura
+- natureza
+- flora
+- energia
 img: 20160426.png
 thumb: thumb-sustentabilidade.png
 comments: true
