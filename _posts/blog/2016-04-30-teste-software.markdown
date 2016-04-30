@@ -13,8 +13,7 @@ thumb: thumb-sustentabilidade.png
 comments: true
 ---
 
-
-O processo de engenharia de um software produzido é estruturado em diversas fases, porém uma atividade fundamental é ter os testes que serão realizados bem detalhados e que cubram grande parte das funcionalidades da solução desenvolvida. Existe porém diversos tipos de testes que podem ser aplicados a cada fase do ciclo produtivo, sendo estas:
+O processo de engenharia de um software produzido é estruturado em diversas fases, porém uma atividade fundamental é ter os testes que serão realizados bem detalhados e que cubram grande parte das funcionalidades da solução desenvolvida. Existe porém diversos tipos de testes que podem ser aplicados a cada fase do ciclo produtivo<!--more-->, sendo estas:
 
 + TESTE DE CONFIGURAÇÃO: é o tipo de teste que valida se o software desenvolvido é executado no hardware especificado para execução do sistema.
 
