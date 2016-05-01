@@ -13,7 +13,7 @@ thumb: thumb-sustentabilidade.png
 comments: true
 ---
 
-Neste dia do trabalho, não existe tema melhor para se discutir do que a questão: você trabalha com o que gosta atualmente e isto te leva a perseguir seus sonhos para o futuro ? Vejo muitos relatos de pessoas que têm seu trabalho somente como um meio para ganharem dinheiro. Outras procuram uma estabilidade, outras estão em sua zona de conforto e não procuram algum trabalho melhor. Mas o quanto vale a pena levar o trabalho como uma obrigação e não como um prazer ?
+Neste dia do trabalho, não existe tema melhor para se discutir do que a questão: você trabalha com o que gosta atualmente e isto te leva a perseguir seus sonhos para o futuro ? Vejo muitos relatos de pessoas que têm seu trabalho somente como um meio para ganharem dinheiro. Outras procuram uma estabilidade, outras estão em sua zona de conforto e não procuram algum trabalho melhor. Mas o quanto vale a pena levar o trabalho como uma obrigação e não como um prazer ? <!--more-->
 
 Pensando nisto, vou então listar aqui cinco motivos que lhe motivariam a trabalhar com o que gosta e a buscar seus sonhos:
 
