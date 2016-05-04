@@ -13,7 +13,7 @@ thumb: thumb-sustentabilidade.png
 comments: true
 ---
 
-Muitas pessoas reclamam constantemente sobre eventos que acontecem no seu dia a dia que talvez nem sejam tão relevantes assim para sua vida. Geralmente se incomodam muito facilmente com qualquer coisa, desde o barulho de uma moeda caindo no chão, ou reclamam até mesmo de não serem copiados em um e-mail de trabalho. Algumas reclamações porém podem ter um motivo específico, então é muito importante estar sempre atento para o tipo de reclamação que a pessoa faz.
+Muitas pessoas reclamam constantemente sobre eventos que acontecem no seu dia a dia que talvez nem sejam tão relevantes assim para sua vida. Geralmente se incomodam muito facilmente com qualquer coisa, desde o barulho de uma moeda caindo no chão, ou reclamam até mesmo de não serem copiados em um e-mail de trabalho. Algumas reclamações porém podem ter um motivo específico, então é muito importante estar sempre atento para o tipo de reclamação que a pessoa faz.<!--more-->
 
 A convivência com pessoas que têm este comportamento, mais para o lado negativo, é algo bem complicado, porém um fator que pode fazer com que este cenário mude é você pensar antes de reclamar do problema. Tente resolve-lo, e não fique discutindo, reclamando, isto não levará a lugar nenhum. Você vai perceber que tomando pequenas atitudes diariamente de não reclamar, podem até lhe tornar uma pessoa mais feliz.
 
