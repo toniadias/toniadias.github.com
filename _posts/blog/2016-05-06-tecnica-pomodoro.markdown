@@ -13,7 +13,7 @@ thumb: thumb-sustentabilidade.png
 comments: true
 ---
 
-Cada vez mais temos distrações que tiram nossa atenção das tarefas diárias, e isto só nos leva a ter baixa produtividade e não cumprir os prazos estabelecidos, acumulando as tarefas. Mas existe uma técnica, chamada Pomodoro, que pode ser utilizada para  apoiar você a se tornar uma pessoa mais produtiva e cumprir seus prazos. <!-- more -->
+Cada vez mais temos distrações que tiram nossa atenção das tarefas diárias, e isto só nos leva a ter baixa produtividade e não cumprir os prazos estabelecidos, acumulando as tarefas. Mas existe uma técnica, chamada Pomodoro, que pode ser utilizada para  apoiar você a se tornar uma pessoa mais produtiva e cumprir seus prazos. <!--more-->
 
 Esta técnica é datada do final dos anos 80, e foi criada com objetivo de de aumentar a produtividade nos estudos nos primeiros anos de faculdade do italiano Francesco Cirillo.
 
