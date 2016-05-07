@@ -13,7 +13,7 @@ thumb: thumb-sustentabilidade.png
 comments: true
 ---
 
-Atendimento ao cliente é uma arte, e todos nós com certeza já passamos por situações positivas e negativas. Mas para alcançar a perfeição é preciso aprimorar, treinar diariamente uma melhor forma de se realizar um atendimento de qualidade.
+Atendimento ao cliente é uma arte, e todos nós com certeza já passamos por situações positivas e negativas. Mas para alcançar a perfeição é preciso aprimorar, treinar diariamente uma melhor forma de se realizar um atendimento de qualidade. <!--more-->
 
 Para que você aprimore este talento, deixo aqui algumas dicas e pontos importantes para lembrar ao se realizar um atendimento:
 
