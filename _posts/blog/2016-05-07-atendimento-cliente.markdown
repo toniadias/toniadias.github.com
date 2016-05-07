@@ -27,4 +27,4 @@ E principalmente procure sempre aprimorar sua qualidade de atendimento. Pratique
 
 E você já teve alguma experiência boa ou ruim de atendimento ? Conte-nos nos comentários !
 
-<i><b>Fonte: </b><a href="http://exame.abril.com.br/carreira/noticias/uma-tecnica">Exame</a></i>
+<i><b>Fonte: </b><a href="http://exame.abril.com.br/videos/dicas-para-empreendedores/como-dar-um-atendimento-extraordinario-para-seu-cliente/">Exame</a></i>
