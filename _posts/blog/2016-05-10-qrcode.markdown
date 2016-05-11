@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "QRCode que traz informações da cidade"
+date:   2016-05-10
+author: Tonia Dias
+categories: 
+- blog
+- qrcode
+- cidade
+- smart
+img: 20160510.png
+thumb: thumb-sustentabilidade.png
+comments: true
+---
+
+O QRCode é um código de barras bidimensional que pode ser convertido em um texto, uma URL, um número de telefone, uma localização, um e-mail ou um contato SMS. É uma nova forma de guardar informações em um código de barras. Ele foi inicialmente empregado em fábricantes de peças automotivas pois agilizava a produção e a localização das peças para montagem dos veículos. Hoje ele é utilizado praticamente em vários produtos visando trazer uma informação mais completa sobre os produtos.<!--more-->
+
+Utilizando-se desta tecnologia a cidade de Curitiba no Paraná, aplicou este recurso em uma calçada famosa da cidade, a "Boca Maldita" no centro da cidade, onde foi desenhado um QRCode que permite ao cidadão visualizar a história deste local. Quando o usuário escaneia o código, ele é direcionado para uma página com o histórico da Rua XV de Novembro que foi o primeiro calçadão do Brasil inaugurado em 1972.
+
+Imagine o número infinito de usos que este recurso tecnológico pode fornecer as pessoas. Estamos em uma era onde a informação é algo essencial e está cada vez mais fazendo parte de nosso dia-a-dia. E você já conhecia um QRCode, já viu ou escaneou algum ? Deixe sua opinião sobre esta tecnologia nos comentários. 
+
+<i><b>Fonte: </b><a href="http://www.archdaily.com.br/br/786957/qr-code-em-calcada-de-curitiba-traz-informacoes-sobre-a-cidade">Arch Daily</a></i>
