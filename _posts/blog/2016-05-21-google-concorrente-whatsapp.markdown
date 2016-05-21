@@ -23,9 +23,11 @@ De dentro do aplicativo você poderá realizar pesquisas no Google além de pode
 
 Outro recurso bem interessante é o modo privado que o aplicativo terá, ao estilo Snapchat. Se você pretende ter uma conversa e não quer que ela fique disponível em histórico ou consultas posteriores, basta utilizar este recurso e a conversa não será armazenada. Além destes recursos também foi apresentada outra ferramenta que integrada ao Allo permitirá que sejam feitas vídeo-chamadas entre os usuários, algo que vem sendo pouco utilizado porém o Google acredita que pode ser melhor aproveitado se integrado ao comunicador instantâneo.
 
+<!--
 <p align="center">
     <iframe class="videoFrame" src="https://www.youtube.com/watch?v=CIeMysX76pM" frameborder="0" allowfullscreen></iframe> 
 </p>
+-->
 
 Agora nos resta aguardar e ver qual será a aceitação dos usuários para esta nova ferramenta ! E você o que achou destes novos recursos ?
 
