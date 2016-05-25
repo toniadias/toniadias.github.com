@@ -8,7 +8,7 @@ categories:
 - mudar
 - habitos
 - agile
-img: 20160524.png
+img: 20160525.png
 thumb: thumb-sustentabilidade.png
 comments: true
 ---
