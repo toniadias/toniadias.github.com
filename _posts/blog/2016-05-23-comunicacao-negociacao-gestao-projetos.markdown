@@ -37,13 +37,13 @@ Na profissão de Gestor de Projetos a comunicação é algo primordial. Recentem
 
 <b>10) Use "e" ao invés de "mas": </b> fazer esta pequena modificação no discurso pode deixar a conversa mais leve. Por exemplo, ao invés de utilizar a frase "Gostei da ideia mas ficaria melhor se....", tente utilizar a seguinte colocação "Gostei da ideia e penso que uma outra abordagem seria mais eficaz"
 
-<b>11) Não Fique na Defensiva: </b> participar de uma conversa de forma retraída, mantendo-se sempre na defensiva é algo deixa a comunicação pesada e pode afetar diretamente o entendimento sobre o assunto tratado.
+<b>11) Não Fique na Defensiva: </b> participar de uma conversa de forma retraída, mantendo-se sempre na defensiva é algo que deixa a comunicação pesada e pode afetar diretamente o entendimento sobre o assunto tratado.
 
 <b>12) Saiba Ficar em Silêncio: </b> ficar em silêncio pode ser útil muitas vezes para que você possa refletir sobre um assunto discutido e tambénm para pensar na resposta que dará à seu interlocutor.
 
 <b>13) Pratique Empatia: </b> e a dica mais importante de todas, procure sempre ser empáticos.
 
-QUando você pratica com excelência grande parte destas habilidades comunicativas, qualquer negociação realizada em projetos será bem realizada buscando sempre a qualidade dos projetos executados.
+QUando você pratica com excelência grande estas habilidades comunicativas, qualquer negociação será realizada com sucesso.
 
 Você acha que se comunica bem ? Deixe nos comentários sua história interessante ligada a comunicação e #ThinkAboutIt
 
