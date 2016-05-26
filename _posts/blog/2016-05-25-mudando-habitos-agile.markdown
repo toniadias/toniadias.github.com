@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mudando Hábitos com Agile"
-date:   2016-05-24
+date:   2016-05-25
 author: Tonia Dias
 categories: 
 - blog
