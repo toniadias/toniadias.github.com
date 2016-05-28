@@ -19,7 +19,7 @@ comments: true
   <img src="http://www.redegeek.com.br/wordpress/wp-content/uploads/2011/10/Post_Babel2.jpg" />
 </p> 
 
-A empresa Waverly Labs, está trabalhando no projeto de um fone de ouvido que permitirá a você conversar com uma pessoa de outro país de forma natural, onde a tradução da linguagem seria realizada em tempo real pelo aparelho. Já pensou se você falasse uma frase em português e uma pessoa à sua frente, entendesse tudo em seu idioma local? Agora isto está prestes a se tornar uma realidade. A empresa ainda aprimora seu projeto para que ele funcione em tempo real e para mais linguagens porém atualmente ele já pode ser testado com as linguagens européias.
+A empresa Waverly Labs, está trabalhando no projeto de um fone de ouvido que permitirá a você conversar com uma pessoa de outro país de forma natural, onde a tradução da linguagem seria realizada em tempo real pelo aparelho. Já pensou se você falasse uma frase em português e uma pessoa à sua frente, entendesse tudo em seu idioma local? Agora isto está prestes a se tornar uma realidade. A empresa ainda aprimora seu projeto para que ele funcione em tempo real e para mais linguagens, porém atualmente ele já pode ser testado com as linguagens européias.
 
 <p align="center">
   <img src="http://s2.glbimg.com/zcFrT7gWf-mXpiKPljlIqMuJzr8=/0x0:694x361/695x362/s.glbimg.com/po/tt2/f/original/2016/05/19/waverly2.png" />
