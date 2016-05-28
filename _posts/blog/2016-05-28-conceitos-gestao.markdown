@@ -15,7 +15,7 @@ comments: true
 
 Realizar a gestão de projetos em uma empresa é algo bem desafiador, e somente o tempo e a prática vão lhe trazer as habilidades necessárias para gerenciar com qualidade as atividades de sua equipe e inovar em seu processo de gestão. Para isto o #ThinkAboutIt separou uma lista com cinco conceitos primordiais que vão lhe ajudar a gerenciar seus projetos.<!--more-->
 
-<h5><b>1) Balanced Scorecard</b></h5> 
+<h4><b>1) Balanced Scorecard</b></h4> 
 
 Esta é uma metodologia criada pelos professores de Harvard e que é utilizada para medir a gestão de desempenho dos profissionais. Através dela você monitora os objetivos e metas relacionados ao processo de negócio, a curva de aprendizado de sua equipe, faturamento, e combinados com o cliente.
 
@@ -23,7 +23,7 @@ Esta é uma metodologia criada pelos professores de Harvard e que é utilizada p
   <img src="http://www.solucoesindustriais.com.br/images/produtos/imagens_3/p_balanced-scorecard-10.jpg" />
 </p> 
 
-<h5><b>2) As Cincos Forças de Porter</b></h5>
+<h4><b>2) As Cincos Forças de Porter</b></h4>
 
 Este é um modelo utilizado pelos gestores para auxiliar a realizar uma análise de seus concorrentes para que se mantenha competitivo no mercado. Através desta metodologia você pode analisar quem são seus principais clientes (compradores), quem podem ser seus fornecedores, e quais serão seus principais pontos de diferencial.
 
@@ -31,7 +31,7 @@ Este é um modelo utilizado pelos gestores para auxiliar a realizar uma análise
   <img src="https://plurio.com/wp-content/uploads/2016/02/Modelo-5-For%C3%A7as-de-Porter-Imagem-e1384820392711.png" />
 </p> 
 
-<h5><b>3) Pirâmide de Maslow</b></h5> 
+<h4><b>3) Pirâmide de Maslow</b></h4> 
 
 Este é outro conceito importante proposto por Abraham Maslow que consiste em organizar de forma hierárquica as necessidades que devem ser satisfeitas dentro da empresa. É através deste conceito que o gestor consegue identificar a melhor maneira de motivar seus funcionários. Na base da pirâmide ficam as necessidades primárias a serem atendidas para que a equipe funcione de forma organizada. Caso algumas destas necessidades não seja satisfeita, a pirâmide (o projeto) não se sustenta.
 
@@ -39,7 +39,7 @@ Este é outro conceito importante proposto por Abraham Maslow que consiste em or
   <img src="http://abacoti.com.br/cnv/wp-content/uploads/2014/10/piramide600.png" />
 </p> 
 
-<h5><b>4) Matriz BCG</b></h5> 
+<h4><b>4) Matriz BCG</b></h4> 
 
 Este é um método que possibilita ao gestor realizar uma análise do portfólio da empresa identificando se os produtos e serviços oferecidos estão satisfazendo o mercado. Através desta análise pode-se identificar que tipo de oferta será feita ao mercado para que os clientes se atraiam por seus produtos e serviços.
 
@@ -47,7 +47,7 @@ Este é um método que possibilita ao gestor realizar uma análise do portfólio
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Matriz_BCG.png" />
 </p> 
 
-<h5><b>5) Análise SWOT</b></h5> 
+<h4><b>5) Análise SWOT</b></h4> 
 
 Modelo de análise o gestor pode de forma prática identificar quais são suas forças, fraquezas, oportunidades e ameaças. A palavra vem do acrônimo em inglês para estas 4 propriedades de um projeto. A partir desta visão pode ser traçada uma estratégia para que o projeto seja gerido com sucesso.
 
