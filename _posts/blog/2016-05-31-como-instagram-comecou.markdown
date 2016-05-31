@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Como o Instagram foi criado"
-date:   2016-06-31
+date:   2016-05-31
 author: Tonia Dias
 categories: 
 
