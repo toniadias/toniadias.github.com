@@ -17,13 +17,13 @@ comments: true
 
 Existem quatro tipos de feedback que podem ser dados/recebidos:
 
-+ POSITIVO: este feedback têm como principal objetivo motivar e estimular para que este comportamento continue sendo realizado.
+&nbsp;&nbsp;+ POSITIVO: este feedback têm como principal objetivo motivar e estimular para que este comportamento continue sendo realizado.
 
-+ CORRETIVO: neste caso a meta é modificar uma conduta que não foi realizada de forma adequada, através da apresentação de exemplos e conversando sobre qual deve ser a forma correta de se portar diante de outra situação semelhante. Este é um tipo de feedback mais focado em orientação.
+&nbsp;&nbsp;+ CORRETIVO: neste caso a meta é modificar uma conduta que não foi realizada de forma adequada, através da apresentação de exemplos e conversando sobre qual deve ser a forma correta de se portar diante de outra situação semelhante. Este é um tipo de feedback mais focado em orientação.
 
-+ OFENSIVO: este como o nome já diz é o feedback que aponta para seus pontos negativos, para que você dê a real importância às situações, de forma que elas não se repitam no futuro.
+&nbsp;&nbsp;+ OFENSIVO: este como o nome já diz é o feedback que aponta para seus pontos negativos, para que você dê a real importância às situações, de forma que elas não se repitam no futuro.
 
-+ SANDUÍCHE: neste tipo de feedback ocorre uma compilação de todos os tipos citados anteriormente. Ele é realizado em um período mais esparço onde são apresentados os pontos positivos e negativos, e discutidas as melhorias a serem feitas. Conclui-se este feedback utilizando palavras de encorajamento, para que o foco seja direcionado às melhorias necessárias de progressão em sua carreira.
+&nbsp;&nbsp;+ SANDUÍCHE: neste tipo de feedback ocorre uma compilação de todos os tipos citados anteriormente. Ele é realizado em um período mais esparço onde são apresentados os pontos positivos e negativos, e discutidas as melhorias a serem feitas. Conclui-se este feedback utilizando palavras de encorajamento, para que o foco seja direcionado às melhorias necessárias de progressão em sua carreira.
 
 <p align="center">
   <img src="http://www.sbcoaching.com.br/blog/wp-content/uploads/2013/09/Infografico-Feedback.jpg" />
