@@ -6,8 +6,8 @@ author: Tonia Dias
 categories: 
 - blog
 - instagram
-- praticas
-- evolucao
+- ferramenta
+- investimento
 img: 20160531.png
 thumb: thumb-sustentabilidade.png
 comments: true
