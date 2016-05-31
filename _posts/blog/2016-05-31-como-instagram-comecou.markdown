@@ -4,7 +4,7 @@ title:  "Como o Instagram foi criado"
 date:   2016-05-31
 author: Tonia Dias
 categories: 
-
+- blog
 - instagram
 - praticas
 - evolucao
@@ -13,7 +13,7 @@ thumb: thumb-sustentabilidade.png
 comments: true
 ---
 
-Um processo interessante que muita gente tem curiosidade é como estes aplicativos famosos hoje em dia como Faceboom, Instagram, Snapchat foram criados? Qual foi o processo para tirar a ideia do papel? Qual esforço foi empenhado pelos criadores até que a ideia fosse vendida por milhões para uma grande empresa? Estas e outras perguntas vamos explorar abordando o caso de estudo do Instagram.<!--more--> 
+Muita gente tem curiosidade em saber algumas informações destes aplicativos famosos de hoje em dia como Faceboom, Instagram, Snapchat. Como foram criados? Qual foi o processo para tirar a ideia do papel? Qual esforço foi empenhado pelos criadores até que a ideia fosse vendida por milhões para uma grande empresa? Estas e outras perguntas vamos explorar abordando o caso de estudo do Instagram.<!--more--> 
 
 No início Kevin um dos idealizadores do Instagram, teve que aprender a codificar em seus horários livres após seu trabalho normal. Ele gastava horas e horas aprendendo as novas linguagens e conceitos de arquitetura de software e hardware. Como uma primeira versão, ou seu mínimo produto viável, ele lançou um protótipo em HTML5 chamado de Burbn e disponibilizou este aplicativo a seus amigos para que testassem. 
 
