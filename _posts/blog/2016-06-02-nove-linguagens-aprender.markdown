@@ -13,9 +13,9 @@ thumb: thumb-sustentabilidade.png
 comments: true
 ---
 
-Para você que está no ramo da tecnologia e principalmente da programação, atualizar-se é algo essencial para não ficar defasado perante o mercado, e atualmente existem diversas formas de se aprimorar tecnicamente. Existem diversos sites que fornecem conteúdo gratuito para que você possa aprender por conta própria. Com isto, aprender uma linguagem de programação tem se tornado cada vez mais simples pois as linguagens mais populares oferecem um número grande de exemplos, bilbiotecas e frameworks disponíveis que podem ser utilizados para aprendizado.<!--more-->
+Para você que está no ramo da tecnologia e principalmente da programação, atualizar-se é algo essencial para não ficar defasado perante o mercado, e atualmente existem diversas formas de se aprimorar tecnicamente. Vários sites fornecem conteúdo gratuito para que você possa aprender por conta própria, e aprender uma linguagem de programação tem se tornado cada vez mais simples pois as linguagens mais populares oferecem um número grande de exemplos, bilbiotecas e frameworks disponíveis que podem ser utilizados para aprendizado.<!--more-->
 
-Dentre as várias linguagens de programação existentes no mercado uma pode lhe auxiliar a resolver um determinado problema, portanto é importante estar antenado com as novidades e as principais linguagens utilizadas pelo mercado atualmente. Para tanto o #ThinkAboutIt separou nove linguagens que você deve conhecer.
+Dentre as várias linguagens de programação utilizadas atualmente uma poderá lhe auxiliar a resolver determinado problema, portanto é importante estar antenado com as novidades e as principais linguagens utilizadas pelo mercado atualmente. Foi pensando nisto que o #ThinkAboutIt separou nove linguagens que você deve conhecer pois estão nos trending topics atualmente.
 
 <b>+ Erlang</b>
 
