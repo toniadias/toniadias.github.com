@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "Nove Linguagens de Programação para Aprender Agora"
-date:   2016-06-02
+date:   2016-06-03
 author: Tonia Dias
 categories: 
 - blog
 - programacao
 - linguagens
 - aprender
-img: 20160602.png
+img: 20160603.png
 thumb: thumb-sustentabilidade.png
 comments: true
 ---

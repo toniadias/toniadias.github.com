@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "Como ERPs Modernos Mudaram a Cadeia de Produção"
-date:   2016-06-01
+date:   2016-06-02
 author: Tonia Dias
 categories: 
 - blog
 - inovacao
 - producao
 - cadeia
-img: 20160601.png
+img: 20160602.png
 thumb: thumb-sustentabilidade.png
 comments: true
 ---
