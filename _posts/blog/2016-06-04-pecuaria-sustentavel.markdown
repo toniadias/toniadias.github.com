@@ -4,7 +4,7 @@ title:  "A Pecuária Sustentável no Brasil"
 date:   2016-06-04
 author: Tonia Dias
 categories: 
--blog
+- blog
 - pecuaria
 - sustentavel
 - gtps
