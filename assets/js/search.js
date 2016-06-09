@@ -1,5 +1,12 @@
 (function() {
   function displaySearchResults(results, store) {
+    var divPosts = document.getElementById('divPosts');
+    divPosts.hide();
+
+    var divResults = document.getElementById('divResults');
+    divResults.show();
+    
+
     var searchResults = document.getElementById('search-results');
 
     if (results.length) { // Are there any results?
