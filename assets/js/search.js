@@ -17,9 +17,9 @@
         appendString += '<p>' + item.content.substring(0, 150) + '...</p></li>';
       }
 
-      searchResults.innerHTML = appendString;
+      divResults.innerHTML = appendString;
     } else {
-      searchResults.innerHTML = '<li>Nenhum post encontrado</li>';
+      divResults.innerHTML = '<li>Nenhum post encontrado</li>';
     }
   }
 
