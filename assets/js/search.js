@@ -5,7 +5,6 @@
 
     var divResults = document.getElementById('divResults');
     divResults.show();
-    
 
     var searchResults = document.getElementById('search-results');
 
