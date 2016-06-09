@@ -17,6 +17,10 @@ Este ano tive um grande desafio e ao mesmo tempo uma grande oportunidade em minh
 
 Eis que chega o momento o dia da apresentação, e a palestra foi então uma experiência única onde foi ótimo compartilhar meu conhecimento com outras pessoas e mostrar que o conteúdo que aprendi durante os anos de estudo na UNIS foram aplicados no mercado de trabalho. No começo foi um momento complicado, se colocar diante de uma plateia e falar sobre um assunto. Mas após alguns minutos a apresentação transcorreu de forma mais tranquila.
 
+<p align="center">
+  <img src="http://toniadias.github.io/assets/img/CongressoUnis.jpg" />
+</p>
+
 FALAR DO TEMA
 
 Só posso tirar desta experiência pontos positivos, pois encarei o desafio de participar de um evento internacional, levei meu conhecimento sobre a área que trabalho para outras pessoas, o que é muito engrandecedor e motivador, afinal este blog foi criado justamente com este objetivo, compartilhar conhecimento e informação.​
