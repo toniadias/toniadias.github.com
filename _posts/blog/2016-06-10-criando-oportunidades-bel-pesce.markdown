@@ -62,10 +62,5 @@ O medo é algo que nos bloqueia muitas vezes, mas devemos ter a coragem para enf
 E ao final da palestra tive a oportunidade de conhecer a Bel pessoalmente e participei de três snaps com ela, que apresentou o presente que ofereci a ela, assim como falou para seus seguidores sobre quem eu era. Uma honra participar de algo junto com uma pessoa tão querida e popular. Esta foi uma experiência que levarei para sempre e que entra em meu caderninho da gratidão !
 
 <p align="center">
-  <img src="http://toniadias.github.io/assets/img/PalestraUnis.jpg" />
-</p>
-
-
-<p align="center">
   <img src="http://toniadias.github.io/assets/img/CongressoUnis.jpg" />
 </p>
