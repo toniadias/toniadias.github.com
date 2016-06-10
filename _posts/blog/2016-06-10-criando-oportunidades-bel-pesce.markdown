@@ -60,7 +60,3 @@ Certas pessoas valorizam tanto o dinheiro que se esquecem que existem outras for
 O medo é algo que nos bloqueia muitas vezes, mas devemos ter a coragem para enfrentar os desafios e alcançar nosso sonhos, afinal quem fica fazendo a mesma coisa sempre querendo alcançar resultados diferentes, não chega a lugar nenhum. Por isso enfrente seus medos sem receio de errar. Aprenda com os erros e tente novamente.
 
 E ao final da palestra tive a oportunidade de conhecer a Bel pessoalmente e participei de três snaps com ela, que apresentou o presente que ofereci a ela, assim como falou para seus seguidores sobre quem eu era. Uma honra participar de algo junto com uma pessoa tão querida e popular. Esta foi uma experiência que levarei para sempre e que entra em meu caderninho da gratidão !
-
-<p align="center">
-  <img src="http://toniadias.github.io/assets/img/CongressoUnis.jpg" />
-</p>
