@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tecnologia a Favor do Meio Ambiente"
-date:   2016-06-09
+date:   2016-06-13
 author: Tonia Dias
 categories: 
 - blog
@@ -13,7 +13,7 @@ thumb: thumb-sustentabilidade.png
 comments: true
 ---
 
-Este ano tive um grande desafio e ao mesmo tempo uma grande oportunidade em minha vida, realizar uma palestra na universidade onde me formei, Grupo UNIS, em um congresso internacional. Eu teria então que elaborar uma palestra focada no assunto relacionado a meu trabalho, falando sobre a Tecnologia para o Agronegócio. Esta seria minha primeira experiência em um evento de grande porte, e claro que o medo apareceu, porém encarei o desafio, estruturei a apresentação, e treinei para executá-la da melhor maneira possível.
+Este ano tive um grande desafio e ao mesmo tempo uma grande oportunidade em minha vida, realizar uma palestra na universidade onde me formei, Grupo UNIS, em um congresso internacional. Eu teria então que elaborar uma palestra focada no assunto relacionado a meu trabalho, falando sobre a Tecnologia para o Agronegócio. Esta seria minha primeira experiência em um evento de grande porte, e claro que o medo apareceu, porém encarei o desafio, estruturei a apresentação, e treinei para executá-la da melhor maneira possível.<!--more-->
 
 Eis que chega o momento o dia da apresentação, e a palestra foi então uma experiência única onde foi ótimo compartilhar meu conhecimento com outras pessoas e mostrar que o conteúdo que aprendi durante os anos de estudo no UNIS foram aplicados no mercado de trabalho. No começo foi um momento complicado, se colocar diante de uma plateia e falar sobre um assunto. Mas após alguns minutos a apresentação transcorreu de forma mais tranquila.
 
