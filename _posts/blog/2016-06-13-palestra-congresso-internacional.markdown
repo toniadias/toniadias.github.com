@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tecnologia a Favor do Meio Ambiente"
+title:  "Tecnologia no Agronegócio"
 date:   2016-06-13
 author: Tonia Dias
 categories: 
