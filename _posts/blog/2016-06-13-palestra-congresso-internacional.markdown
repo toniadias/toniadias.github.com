@@ -17,6 +17,8 @@ Este ano tive um grande desafio e ao mesmo tempo uma grande oportunidade em minh
 
 Eis que chega o momento o dia da apresentação, e a palestra foi então uma experiência única onde foi ótimo compartilhar meu conhecimento com outras pessoas e mostrar que o conteúdo que aprendi durante os anos de estudo no UNIS foram aplicados no mercado de trabalho. No começo foi um momento complicado, se colocar diante de uma plateia e falar sobre um assunto. Mas após alguns minutos a apresentação transcorreu de forma mais tranquila.
 
+<br/><br/>
+
 <p align="center">
   <img src="http://toniadias.github.io/assets/img/PalestraUnis.png" />
 </p>
