@@ -15,9 +15,13 @@ comments: true
 
 Mais uma vez a Apple vem com muitas novidades e atualizações em seus softwares da plataforma após o WWDC, sua conferência anual para desenvolvedores. Mas como será que estas mudanças e evoluções vão nos afetar diretamente? <!--more-->
 
-Um dos grandes avanços é a visão de que não importa o dispositivo que você utilize, seus dados estarão na nuvem e acessíveis a qualquer momento de qualquer dispositivo. Isto é um grande avanço e permite uma maior interoperabilidade entre os dispositivos da plataforma. Outra grande vantagem apresentada foi a liberação da API do assistente Siri, o que permitirá que outros aplicativos interajam com o assistente, facilitando ainda mais a operação e uso dos aplicativos. Esta abertura da API de desenvolvimento, ainda inicial, pode ser um grande avanço para que a plataforma da maçã possa evoluir com apoio dos desenvolvedores da comunidade.
+Um dos grandes avanços é a visão de que não importa o dispositivo que você utilize, seus dados estarão na nuvem e acessíveis a qualquer momento de qualquer dispositivo. Isto é um grande avanço e permite uma maior integração entre os dispositivos da plataforma. Outra grande vantagem apresentada foi a liberação da API do assistente Siri, o que permitirá que outros aplicativos interajam com o assistente, facilitando ainda mais a operação e uso dos aplicativos. Esta abertura da API de desenvolvimento, ainda inicial, pode ser um grande avanço para que a plataforma da maçã possa evoluir com apoio dos desenvolvedores da comunidade.
 
-Falando agora do lado do software mobile, uma das principais linhas da Apple, será permitido que sotwares nativos possam ser desinstalados no iOS, algo que já era nativo para usuários Android. Isto aproxima a usabilidade das duas plataformas. Já o aplicativo Fotos receberá o recurso de reconhecimento facial, facilitando a organização de seus registros em foto. O player de músicas ganha uma remodelagem visual e se torna mais amigável. A tela de bloqueio finalmente perde o recurso "Slide to unlock" algo que já não é utilizado pelos usuários a um logo tempo, que utilizam o desbloqueio por código ou digital.
+Falando agora do lado do software mobile, uma das principais linhas da Apple, as principais novidades são:
++ Permitir que sotwares nativos possam ser desinstalados no iOS, algo que já era nativo para usuários Android e que aproxima a usabilidade entre as duas plataformas. 
++ O aplicativo "Fotos" receberá o recurso de reconhecimento facial, facilitando a organização de seus registros fotográficos. 
++ O player de músicas ganha uma remodelagem visual e se torna mais amigável.
++ A tela de bloqueio finalmente perde o recurso "Slide to unlock" (deslizar para desbloquear) algo que já não é utilizado pelos usuários a um logo tempo, que utilizam o desbloqueio por código ou digital.
 
 Estas foram só algumas das novidades apresentadas, dentre milhares de correções e melhorias que foram implementadas nesta versão. Vale destacar as versões que receberão a atualização, apresentadas na imagem abaixo.
 
