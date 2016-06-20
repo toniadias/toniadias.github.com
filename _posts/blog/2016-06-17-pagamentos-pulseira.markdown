@@ -4,7 +4,7 @@ title:  "Novos Dispositivos para Pagamento"
 date:   2016-06-17
 author: Tonia Dias
 categories: 
-
+- blog
 - inovacao
 - pagamento
 - pulseira
