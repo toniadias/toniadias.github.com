@@ -34,7 +34,7 @@ social:
     url: https://br.linkedin.com/in/toniadias
   - title: instagram
     url: https://www.instagram.com/blogthinkaboutit/
-  - title: mail
+  - title: envelope
     url: mailto:blogthinkaboutittd@gmail.com
     
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
@@ -42,7 +42,7 @@ address:
   - lines: 
     - São José dos Campos / São Paulo,
     - Brasil.
-email: tdsouzza@gmail.com
+email: blogthinkaboutittd@gmail.com
 #tel: +55 (12) 99148 3856
 
 
