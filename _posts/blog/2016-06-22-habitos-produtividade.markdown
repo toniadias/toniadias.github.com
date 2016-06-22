@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "20 Hábitos de Pessoas Superprodutivas"
-date:   2016-05-30
+date:   2016-06-22
 author: Tonia Dias
 categories: 
-
+- blog
 - produtividade
 - hábitos
 - ferramentas
-img: 20160530.png
+img: 20160622.png
 thumb: thumb-sustentabilidade.png
 comments: true
 ---
