@@ -6,7 +6,7 @@ author: Tonia Dias
 categories: 
 - blog
 - produtividade
-- hábitos
+- habitos
 - ferramentas
 img: 20160622.png
 thumb: thumb-sustentabilidade.png
