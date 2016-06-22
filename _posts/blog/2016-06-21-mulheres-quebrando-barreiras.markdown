@@ -7,7 +7,7 @@ categories:
 - blog
 - tecnologia
 - mulheres
-- bebes
+- barreiras
 img: 20160621.png
 thumb: thumb-sustentabilidade.png
 comments: true
