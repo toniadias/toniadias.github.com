@@ -29,7 +29,7 @@ Separei então 20 dicas que podem fazer com que seu dia seja melhor aproveitado:
 
 6) Durante o dia ou o horário de expediente, desative as notificações de aplicativos como Facebook ou Whatsapp, isto faz com que você se concentre mais em suas atividades.
 
-7) Eveite atender chamadas telefônicas de emergência do trabalho em seu horário livre. Isto lhe fará perder seu tempo pessoal tratando de assuntos profissionais.
+7) Evite atender chamadas telefônicas de emergência do trabalho em seu horário livre. Isto lhe fará perder seu tempo pessoal tratando de assuntos profissionais.
 
 8) Seu corpo manda sinais de cansaço portanto caso você precise de um sono renovador, não deixe esta opção de lado e quando possível aproveite o tempo para renovar as energias.
 
