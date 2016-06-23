@@ -31,7 +31,7 @@ Separei então 20 dicas que podem fazer com que seu dia seja melhor aproveitado:
 
 7) Evite atender chamadas telefônicas de emergência do trabalho em seu horário livre. Isto lhe fará perder seu tempo pessoal tratando de assuntos profissionais.
 
-8) Seu corpo manda sinais de cansaço portanto caso você precise de um sono renovador, não deixe esta opção de lado e quando possível aproveite o tempo para renovar as energias.
+8) Seu corpo manda sinais de cansaço, portanto caso você precise de um sono renovador, não deixe esta opção de lado e quando possível aproveite o tempo para renovar as energias.
 
 9) Se você não puder sair no almoço ou precisar finalizar uma atividade ou estudar algum assunto, procure aproveitar o tempo e peça comida pelos serviços de delivery. Isto lhe economiza o tempo de transporte até algum restaurante.
 
