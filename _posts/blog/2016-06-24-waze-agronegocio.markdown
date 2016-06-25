@@ -4,7 +4,7 @@ title:  "Waze do Agronegócio"
 date:   2016-06-25
 author: Tonia Dias
 categories: 
-
+- blog
 - agronegocio
 - inteligencia
 - campo
