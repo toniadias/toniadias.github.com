@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "10 vídeos que todo chefe deve ver se quer virar um bom líder"
-date:   XXXX-XX-XX
+date:   2016-06-26
 author: Tonia Dias
 categories: 
 
 - lideranca
 - carreira
 - videos
-img: XXXXXXXX.png
+img: 20160626.png
 thumb: thumb-sustentabilidade.png
 comments: true
 ---
