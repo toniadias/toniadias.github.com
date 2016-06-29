@@ -23,64 +23,86 @@ Mas tenha sempre em mente que não é o cargo que faz de você um líder, e sim 
 + Senso de Responsabilidade
 + Propósitos
 
+<br/><br/><br/>
+
 <b>1) Como fazer as perguntas certas e evitar as erradas</b>
 
 <p align="center">
-    <iframe class="videoFrame" src="https://youtu.be/pjCV9wtsBGw" frameborder="0" allowfullscreen></iframe> 
+    <a href="https://youtu.be/pjCV9wtsBGw">
+        <img src="http://assets0.exame.abril.com.br/assets/videos/7391/size_810_16_9_como-fazer-as-perguntas-certas-e-evitar-as-erradas.jpg" />
+    </a>
 </p>
 
 <b>2) Os 4 elementos chave para atingir metas</b>
 
 <p align="center">
-    <iframe class="videoFrame" src="https://youtu.be/lMgTUcFIfWg" frameborder="0" allowfullscreen></iframe> 
+    <a href="https://youtu.be/lMgTUcFIfWg">
+        <img src="http://assets1.exame.abril.com.br/assets/videos/7392/size_810_16_9_os-4-elementos-chave-para-tirar-objetivos-do-papel.jpg" />
+    </a>
 </p>
 
 <b>3) Uma competência essencial a todo chefe (e suas utilidades)</b>
 
 <p align="center">
-    <iframe class="videoFrame" src="https://youtu.be/9BK7j6AAENg" frameborder="0" allowfullscreen></iframe> 
+    <a href="https://youtu.be/9BK7j6AAENg">
+        <img src="http://assets3.exame.abril.com.br/assets/videos/7393/size_810_16_9_uma-competencia-essencial-a-todo-chefe-e-suas-utilidades.jpg" />
+    </a>
 </p>
 
 <b>4) Como mediar conflitos para chegar a uma conclusão</b>
 
 <p align="center">
-    <iframe class="videoFrame" src="https://youtu.be/cssDE0J_Fak" frameborder="0" allowfullscreen></iframe> 
+    <a href="https://youtu.be/cssDE0J_Fak">
+        <img src="http://assets1.exame.abril.com.br/assets/videos/7394/size_810_16_9_como-mediar-conflitos-para-chegar-a-uma-conclusao-saudavel.jpg" />
+    </a>
 </p>
 
 <b>5) Este conceito mostra se você se comporta como um líder (ou não)</b>
 
 <p align="center">
-    <iframe class="videoFrame" src="https://youtu.be/OnYvgX0tHI8" frameborder="0" allowfullscreen></iframe> 
+    <a href="https://youtu.be/OnYvgX0tHI8">
+        <img src="http://assets0.exame.abril.com.br/assets/videos/7395/size_810_16_9_este-conceito-da-psicologia-diz-muito-sobre-um-lider.jpg" />
+    </a>
 </p>
 
 <b>6) O ponto de equilíbrio entre planejamento e execução</b>
 
 <p align="center">
-    <iframe class="videoFrame" src="https://youtu.be/JfqGeDqXKZo" frameborder="0" allowfullscreen></iframe> 
+    <a href="https://youtu.be/JfqGeDqXKZo">
+        <img src="http://assets1.exame.abril.com.br/assets/videos/7419/size_810_16_9_o-ponto-de-equilibrio-entre-planejamento-e-execucao.jpg" />
+    </a>
 </p>
 
 <b>7) O que as equipes que realmente funcionam têm de diferente</b>
 
 <p align="center">
-    <iframe class="videoFrame" src="https://youtu.be/Dcxe20C6eHE" frameborder="0" allowfullscreen></iframe> 
+    <a href="https://youtu.be/Dcxe20C6eHE">
+        <img src="http://assets1.exame.abril.com.br/assets/videos/7415/size_810_16_9_o-que-as-equipes-que-realmente-funcionam-tem-de-diferente.jpg" />
+    </a>
 </p>
 
 <b>8) Esta reflexão é crucial para sua carreira</b>
 
 <p align="center">
-    <iframe class="videoFrame" src="https://youtu.be/MANzjRv6504" frameborder="0" allowfullscreen></iframe> 
+    <a href="https://youtu.be/MANzjRv6504">
+        <img src="http://assets3.exame.abril.com.br/assets/videos/7416/size_810_16_9_esta-reflexao-e-crucial-para-sua-carreira.jpg" />
+    </a>
 </p>
 
 <b>9) A armadilha que pega muitos chefes</b>
 
 <p align="center">
-    <iframe class="videoFrame" src="https://youtu.be/9sEq4l8qzZk" frameborder="0" allowfullscreen></iframe> 
+    <a href="https://youtu.be/9sEq4l8qzZk">
+        <img src="http://assets2.exame.abril.com.br/assets/videos/7417/size_810_16_9_a-armadilha-que-pega-muitos-chefes.jpg" />
+    </a>
 </p>
 
 <b>10) Porquê a confiança é importante</b>
 
 <p align="center">
-    <iframe class="videoFrame" src="https://youtu.be/qrmUNPZ7-uY" frameborder="0" allowfullscreen></iframe> 
+    <a href="https://youtu.be/qrmUNPZ7-uY">
+        <img src="http://assets0.exame.abril.com.br/assets/videos/7418/size_810_16_9_por-que-a-confianca-e-importante.jpg" />
+    </a>
 </p>
 
 Hoje quando falamos em liderança, uma das personalidades mais influentes no Brasil é Jorge Paulo Lemann. Formado em economia em Harvard e seu principal conceito é acreditar que as pessoas podem se qualificar e se desenvolver para crescerem em suas carreiras e por consequência ajudar no crescimento do país. É um grande influenciador e motivador atualmente no país investindo em inovação sempre.
