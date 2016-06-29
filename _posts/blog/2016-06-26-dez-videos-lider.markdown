@@ -1,21 +1,21 @@
 ---
 layout: post
 title:  "10 vídeos que todo chefe deve ver se quer virar um bom líder"
-date:   2016-06-26
+date:   2016-06-28
 author: Tonia Dias
 categories: 
-
+- blog
 - lideranca
 - carreira
 - videos
-img: 20160626.png
+img: 20160628.png
 thumb: thumb-sustentabilidade.png
 comments: true
 ---
 
-Quem exerce uma posição de chefia em uma empresa tem grandes responsabilidades. Gerenciar os projetos e sua equipe, evitar e resolver conflitos, garantir a entrega no prazo, dentre outras atribuições. Mas como você pode ser um líder de verdade participando e orientando de forma integrada a sua equipe e não exercendo um papel somente de chefia? Algo complicado de ser feito. Hoje o #ThinkAboutIt separou dez vídeos que podem lhe ajudar a entender o real papel de um líder em uma equipe.<!--more-->
+Quem exerce uma posição de chefia em uma empresa tem grandes responsabilidades como: gerenciar os projetos e sua equipe, evitar e resolver conflitos, garantir a entrega no prazo, dentre outras atribuições. Mas como você pode ser um líder de verdade participando e orientando de forma integrada a sua equipe e não exercendo um papel somente de chefia? Algo complicado de ser feito.<!--more-->
 
-Tenha sempre em mente que não é o cargo que faz de você um líder, e sim suas atitudes. Baseado neste conceito, o consultor Ryoichi Penna criou uma série de vídeos rápidos com dicas úteis sobre os principais temas relacionados a projeto, sendo estes: 
+Mas tenha sempre em mente que não é o cargo que faz de você um líder, e sim suas atitudes. Baseado neste conceito, o consultor Ryoichi Penna criou uma série de vídeos rápidos com dicas úteis sobre os principais temas relacionados a projeto, sendo estes: 
 + Comunicação 
 + Metas
 + Facilitação
