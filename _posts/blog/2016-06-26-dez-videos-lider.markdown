@@ -28,7 +28,7 @@ Mas tenha sempre em mente que não é o cargo que faz de você um líder, e sim 
 <b>1) Como fazer as perguntas certas e evitar as erradas</b>
 
 <p align="center">
-    <a href="https://youtu.be/pjCV9wtsBGw">
+    <a href="https://youtu.be/pjCV9wtsBGw" target="_blank">
         <img src="http://assets0.exame.abril.com.br/assets/videos/7391/size_810_16_9_como-fazer-as-perguntas-certas-e-evitar-as-erradas.jpg" />
     </a>
 </p>
@@ -36,7 +36,7 @@ Mas tenha sempre em mente que não é o cargo que faz de você um líder, e sim 
 <b>2) Os 4 elementos chave para atingir metas</b>
 
 <p align="center">
-    <a href="https://youtu.be/lMgTUcFIfWg">
+    <a href="https://youtu.be/lMgTUcFIfWg" target="_blank">
         <img src="http://assets1.exame.abril.com.br/assets/videos/7392/size_810_16_9_os-4-elementos-chave-para-tirar-objetivos-do-papel.jpg" />
     </a>
 </p>
@@ -44,7 +44,7 @@ Mas tenha sempre em mente que não é o cargo que faz de você um líder, e sim 
 <b>3) Uma competência essencial a todo chefe (e suas utilidades)</b>
 
 <p align="center">
-    <a href="https://youtu.be/9BK7j6AAENg">
+    <a href="https://youtu.be/9BK7j6AAENg" target="_blank">
         <img src="http://assets3.exame.abril.com.br/assets/videos/7393/size_810_16_9_uma-competencia-essencial-a-todo-chefe-e-suas-utilidades.jpg" />
     </a>
 </p>
@@ -52,7 +52,7 @@ Mas tenha sempre em mente que não é o cargo que faz de você um líder, e sim 
 <b>4) Como mediar conflitos para chegar a uma conclusão</b>
 
 <p align="center">
-    <a href="https://youtu.be/cssDE0J_Fak">
+    <a href="https://youtu.be/cssDE0J_Fak" target="_blank">
         <img src="http://assets1.exame.abril.com.br/assets/videos/7394/size_810_16_9_como-mediar-conflitos-para-chegar-a-uma-conclusao-saudavel.jpg" />
     </a>
 </p>
@@ -60,7 +60,7 @@ Mas tenha sempre em mente que não é o cargo que faz de você um líder, e sim 
 <b>5) Este conceito mostra se você se comporta como um líder (ou não)</b>
 
 <p align="center">
-    <a href="https://youtu.be/OnYvgX0tHI8">
+    <a href="https://youtu.be/OnYvgX0tHI8" target="_blank">
         <img src="http://assets0.exame.abril.com.br/assets/videos/7395/size_810_16_9_este-conceito-da-psicologia-diz-muito-sobre-um-lider.jpg" />
     </a>
 </p>
@@ -68,7 +68,7 @@ Mas tenha sempre em mente que não é o cargo que faz de você um líder, e sim 
 <b>6) O ponto de equilíbrio entre planejamento e execução</b>
 
 <p align="center">
-    <a href="https://youtu.be/JfqGeDqXKZo">
+    <a href="https://youtu.be/JfqGeDqXKZo" target="_blank">
         <img src="http://assets1.exame.abril.com.br/assets/videos/7419/size_810_16_9_o-ponto-de-equilibrio-entre-planejamento-e-execucao.jpg" />
     </a>
 </p>
@@ -76,7 +76,7 @@ Mas tenha sempre em mente que não é o cargo que faz de você um líder, e sim 
 <b>7) O que as equipes que realmente funcionam têm de diferente</b>
 
 <p align="center">
-    <a href="https://youtu.be/Dcxe20C6eHE">
+    <a href="https://youtu.be/Dcxe20C6eHE" target="_blank">
         <img src="http://assets1.exame.abril.com.br/assets/videos/7415/size_810_16_9_o-que-as-equipes-que-realmente-funcionam-tem-de-diferente.jpg" />
     </a>
 </p>
@@ -84,7 +84,7 @@ Mas tenha sempre em mente que não é o cargo que faz de você um líder, e sim 
 <b>8) Esta reflexão é crucial para sua carreira</b>
 
 <p align="center">
-    <a href="https://youtu.be/MANzjRv6504">
+    <a href="https://youtu.be/MANzjRv6504" target="_blank">
         <img src="http://assets3.exame.abril.com.br/assets/videos/7416/size_810_16_9_esta-reflexao-e-crucial-para-sua-carreira.jpg" />
     </a>
 </p>
@@ -92,7 +92,7 @@ Mas tenha sempre em mente que não é o cargo que faz de você um líder, e sim 
 <b>9) A armadilha que pega muitos chefes</b>
 
 <p align="center">
-    <a href="https://youtu.be/9sEq4l8qzZk">
+    <a href="https://youtu.be/9sEq4l8qzZk" target="_blank">
         <img src="http://assets2.exame.abril.com.br/assets/videos/7417/size_810_16_9_a-armadilha-que-pega-muitos-chefes.jpg" />
     </a>
 </p>
@@ -100,7 +100,7 @@ Mas tenha sempre em mente que não é o cargo que faz de você um líder, e sim 
 <b>10) Porquê a confiança é importante</b>
 
 <p align="center">
-    <a href="https://youtu.be/qrmUNPZ7-uY">
+    <a href="https://youtu.be/qrmUNPZ7-uY" target="_blank">
         <img src="http://assets0.exame.abril.com.br/assets/videos/7418/size_810_16_9_por-que-a-confianca-e-importante.jpg" />
     </a>
 </p>
