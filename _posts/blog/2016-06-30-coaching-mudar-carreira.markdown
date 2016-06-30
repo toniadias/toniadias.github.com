@@ -39,5 +39,5 @@ Com esta série de técnicas, você pode se aprimorar pessoal e profissionalment
 
 <i>
 	<b>Fontes: </b><br/>
-	<a href="http://www.administradores.com.br/artigos/carreira/como-o-coaching-pode-mudar-sua-vida-em-tempos-de-crise/96198/">Exame</a><br/>
+	<a href="http://www.administradores.com.br/artigos/carreira/como-o-coaching-pode-mudar-sua-vida-em-tempos-de-crise/96198/">Administradores</a><br/>
 </i>
