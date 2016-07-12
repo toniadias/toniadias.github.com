@@ -23,8 +23,6 @@ Com este avanço tecnológico é possível que estas fazendas possam ser implant
 
 Conheça mais sobre o projeto no vídeo abaixo e deixe seu comentário sobre como você acredita que este avanço pode afetar sua vida, e #ThinkAboutIt !
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-_tvJtUHnmU" frameborder="0" allowfullscreen></iframe>
-
 <i>
 	<b>Fontes: </b><br/>
 	<a href="http://canaltech.com.br/noticia/curiosidades/fazenda-vertical-promete-producao-75-vezes-maior-do-que-uma-tradicional-72331/">CANAL TECH</a><br/>
