@@ -4,16 +4,16 @@ title:  "Fazenda Vertical, Futuro da Produção Agrícola"
 date:   2016-07-07
 author: Tonia Dias
 categories: 
-
+- blog
 - agronegocio
 - futuro
 - produtividade
-img: 20160707.png
+img: 20160712.png
 thumb: thumb-sustentabilidade.png
 comments: true
 ---
 
-A produção mundial de alimentos possui a necessidade cada vez maior de ser sustentável e ao mesmo tempo aumentar a produtividade para suprir as necessidades de alimentação da população mundial que cresce exponencialmente. Desta forma os grandes produtores tem buscado inovar no mercado de agronegócio criando alternativas para aumentar a produtividade.<!--more-->
+A produção mundial de alimentos possui a necessidade cada vez maior de ser sustentável e ao mesmo tempo aumentar a produtividade suprindo a carência de alimentação da população mundial que cresce exponencialmente. Diante deste cenário, os grandes produtores tem buscado inovar no mercado de agronegócio criando alternativas para aumentar a produtividade.<!--more-->
 
 A mais nova iniciativa é a criação de fazendas verticais. Este conceito vem sendo testado pela empresa AeroFarm e tem-se conseguido aumentar em até 75 vezes a produtividade e economizando até 95% menos água na propriedade avaliada. As plantações são realizadas dentro de grandes galpões através da utilização de prateleiras e que possuem uma iluminação de LED. Os nutrientes são borrifados para as plantas através de suas raizes. Esta iniciativa é bem similar ao adotado hoje em produções hidropônicas, onde as plantas são cultivadas na água.
 
