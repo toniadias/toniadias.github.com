@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fazenda Vertical, Futuro da Produção Agrícola"
-date:   2016-07-07
+date:   2016-07-12
 author: Tonia Dias
 categories: 
 - blog
