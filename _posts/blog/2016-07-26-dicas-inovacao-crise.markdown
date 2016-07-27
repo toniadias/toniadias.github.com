@@ -17,7 +17,7 @@ Em uma época onde o Brasil passa por uma crise econômica grande, as empresas p
 
 <b>1.</b> Para inovar você não precisa necessariamente ter um investimento financeiro prévio. Invista no detalhamento e planejamento de sua ideia de forma a estruturar e ter maior visão sobre o que está sendo proposto. Envolve mais uma mudança de atitudes e de hábitos do que a necessidade de se ter um investimento. Quando a proposta está melhor definida, pode-se então buscar investimentos corretos para potencializar a ideia e tirá-la do papel.
 
-<b>2.</b> Não desanime perante o cenário geral do país. Você e somente você pode tirar sua inovação do papel, portanto invista em atividades que lhe direcionem a criação de sua ideia.
+<b>2.</b> Não desanime perante o cenário geral do país. Somente você pode tirar sua inovação do papel, portanto invista em atividades que lhe direcionem a criação de sua ideia.
 
 <b>3.</b> Não é preciso ser um gênio para tirar uma ideia do papel ou para inovar. Grande parte das inovações é feita através de um agrupamento de ideias de várias pessoas ou ainda de conversas para que sua inovação seja validada.
 
