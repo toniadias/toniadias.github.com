@@ -4,7 +4,7 @@ title:  "Dicas para Estimular Inovação"
 date:   2016-07-26
 author: Tonia Dias
 categories: 
-
+- blog
 - inovacao
 - estimulo
 - dicas
