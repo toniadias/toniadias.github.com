@@ -29,9 +29,7 @@ O projeto passou por testes recentes em fazendas onde o terreno era acidentado e
   <img src="http://beefpoint.wpengine.netdna-cdn.com/wp-content/uploads/2016/08/swagbot-1.png" />
 </p>
 
-Veja um vídeo que mostra os resultados do primeiro teste do SwagBot:
-
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=TxAWlhRlQ9U" frameborder="0" allowfullscreen></iframe>
+Veja um <a href="https://www.youtube.com/watch?v=TxAWlhRlQ9U">vídeo</a> que mostra os resultados do primeiro teste do SwagBot.
 
 E você, já imaginou que sua fazenda possa ser um dia totalmente controlada por máquinas onde o ser humano tomaria o papel de planejador e organizador das atividades? O que acha deste avanço? Deixe sua opinião nos comentários e #ThinkAboutIt.
 
