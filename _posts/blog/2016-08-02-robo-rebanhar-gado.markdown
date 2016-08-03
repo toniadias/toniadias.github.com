@@ -19,10 +19,6 @@ Pesquisadores australianos do Centro de Robótica de Campo estão trabalhando em
 
 O projeto chamado de SwagBot, é construído de forma a suportar as irregularidades e diferenças no terreno de uma propriedade, para suportar a realização de algumas das atividades como: monitoramento e pastoreio de animais em campo e monitoramento de plantações e atividades de colheita. 
 
-<p align="center">
-  <img src="http://beefpoint.wpengine.netdna-cdn.com/wp-content/uploads/2016/08/swagbot-3.jpg" />
-</p>
-
 O projeto passou por testes recentes em fazendas onde o terreno era acidentado e possui rios / lagos na propriedade onde os animais se refrescam. O objetivo principal dos testes era identificar o comportamento dos animais perante a este objeto desconhecido no campo e principalmente se o SwagBot seria capaz de realizar as atividades sozinho. Este foi só o primeiro teste do aparelho que ainda vai evoluir e muito, mas este avanço tecnológico promete trazer uma revolução para a pecuária.
 
 <p align="center">
