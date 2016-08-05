@@ -29,5 +29,5 @@ Quem será que ganhará esta batalha? Deixe sua opinião nos comentários e vamo
 
 <i>
 	<b>Fontes: </b><br/>
-	<a href="http://exame.abril.com.br/tecnologia/noticias/um-breve-historico-da-briga-entre-facebook-e-snapchat">BeefPoint</a><br/>
+	<a href="http://exame.abril.com.br/tecnologia/noticias/um-breve-historico-da-briga-entre-facebook-e-snapchat">Exame</a><br/>
 </i>
