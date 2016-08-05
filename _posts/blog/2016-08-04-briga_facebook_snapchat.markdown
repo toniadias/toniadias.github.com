@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""
+title:  "Instagram x Snapchat, Quem vence esta batalha?"
 date:   2016-08-04
 author: Tonia Dias
 categories: 
