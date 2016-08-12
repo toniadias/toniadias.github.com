@@ -19,11 +19,11 @@ Existe um ditado popular que diz "Duas cabeças pensam melhor que uma". Quando p
 
 A cultura de startups tem trazido muito esta visão para o mercado, de times colaborativos onde várias pessoas da equipe em conjunto formatam uma ideia de solução e trabalham sobre cada ponto desta ideia para que ela saia do papel. Cada pessoa pode contribuir um pouco dentro de sua área de domínio. Com isto a solução inovadora cresce de forma mais estruturada.
 
-<p align="center">
-  <img src="http://imguol.com/c/entretenimento/2014/08/08/trabalho-equipe-1407501902976_956x500.jpg" />
-</p>
-
 Dividindo as tarefas você consegue por exemplo validar de forma mais rápida uma solução junto ao cliente, elaborar um plano de negócio para a ideia, desenvolver protótipos, construir um plano de marketing, dentre outras atividades que se ficassem concentradas nas mãos somente de uma pessoa, isto traria lentidão ao processo. E em nosso mundo onde tudo é tão dinâmico e muda em uma velocidade muito rápida, uma ideia pode perder validade de mercado em pouco tempo.
+
+<p align="center">
+  <img src="http://imguol.com/c/entretenimento/2014/08/08/trabalho-equipe-1407501902976_956x500.jpg" width="400" height="209" />
+</p>
 
 Dividir para conquistar, este é o segredo de quem realmente deseja inovar em seu negócio. Além de levar seu time a um crescimento em conjunto você corre o risco de lançar uma ideia que lhe trará muito sucesso pois foi muito bem trabalhada e validada por toda equipe.
 
