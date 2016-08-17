@@ -41,7 +41,7 @@ De nada adianta você ter grandes sonhos, criar o planejamento perfeito, definir
 
 Estar preparado emocionalmente para o <b>sucesso</b> ou para as <b>falhas</b> é algo essencial. Você deve tirar de cada falha uma lição, manter o controle nos momentos difíceis e redirecionar seus planos para que sua meta ainda continue como seu objetivo principal. Deve também comemorar cada conquista, pois isto irá lhe motivar a prosseguir no caminho para a vitória.
 
-E você quanto está comprometido com seu objetivo, com suas metas? Deixe sua opinião nos comentários e #ThinkAboutIt
+E você quanto acredita que estes pontos se bem trabalhados podem te levar a alcançar suas metas? Deixe sua opinião nos comentários e #ThinkAboutIt
 
 Nos vemos no próximo artigo !
 
