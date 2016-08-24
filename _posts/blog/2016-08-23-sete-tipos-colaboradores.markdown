@@ -15,7 +15,7 @@ comments: true
 
 Hoje em dia nas empresas temos cada vez mais profissionais multidisciplinares que atuam em diversas áreas, porém será que isto está colaborando para que você tenha um time perfeito ou que realmente atenda a todas as necessidades de seus projetos?<!--more-->
 
-A resposta é, muitas vezes não! Muitas empresas grandes tem diversos talentos mas que quando colocados em equipe não conseguem demonstrar seu talento e travam a realização de um projeto. desta forma você precisa saber identificar os principais perfis de colaboradores que precisa ter em sua equipe para que os projetos sejam realizados com primor. 
+A resposta é, muitas vezes não! Muitas empresas grandes tem diversos talentos mas que quando colocados em equipe não conseguem demonstrar seu talento e trava a execução de um projeto. desta forma você precisa saber identificar os principais perfis de colaboradores que precisa ter em sua equipe para que os projetos sejam realizados com primor. 
 
 O time perfeito, deve ter perfis distintos mas que se complementam, sendo estes:
 
