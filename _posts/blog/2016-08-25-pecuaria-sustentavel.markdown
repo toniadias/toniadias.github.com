@@ -6,7 +6,7 @@ author: Tonia Dias
 categories: 
 - blog
 - pecuaria
-- leite
+- carne
 - agronegocio
 img: 20160826.png
 thumb: thumb-sustentabilidade.png
