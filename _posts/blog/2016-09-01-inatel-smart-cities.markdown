@@ -4,7 +4,7 @@ title:  "Inatel Inicia Implantação de seu Smart Campus"
 date:   2016-09-02
 author: Tonia Dias
 categories: 
-
+- blog
 - tecnologia
 - smartcities
 - inatel
