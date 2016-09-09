@@ -19,11 +19,15 @@ html, body {
 .navbar-default .navbar-nav > li > a {
     font-family: Signika;
     font-size: 1.25em !important;
-    color: {{ site.colors.link_hover }} !important;
+    color: #FFF !important;
 }
 
 .navbar-default .navbar-nav > li > a:hover {
 	color: {{ site.colors.link_hover }};
+}
+
+.navbar-default .navbar-nav > li > a:active {
+    color: {{ site.colors.link_hover }} !important;
 }
 
 .social-color {
