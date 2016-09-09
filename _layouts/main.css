@@ -26,6 +26,10 @@ html, body {
 	color: {{ site.colors.link_hover }};
 }
 
+.navbar-default .navbar-nav > li > a:focus {
+    color: {{ site.colors.link_hover }} !important;
+}
+
 .social-color {
 	color: {{ site.colors.footer_content }};
 }
