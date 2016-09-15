@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Cinco Habilidade Profissionais Valorizadas em IoT"
-date:   2016-09-10
+title:  "Dez Habilidades Profissionais Valorizadas em IoT"
+date:   2016-09-09
 author: Tonia Dias
 categories: 
 - blog
 - tecnologia
 - iot
 - habilidades
-img: 20160910.png
+img: 20160909.png
 thumb: thumb-sustentabilidade.png
 comments: true
 ---
@@ -23,15 +23,15 @@ Hoje o Think About It separou 5 habilidades que um profissional de IoT precisa t
 
 <b>3) Big Data:</b> com um volume alto de dados coletados em campo, é possível realizar análises sobre as informações garantindo que os trabalhos sejam realizados da melhor forma possível.
 
-<b>4) Segurança:</b> como existem muitos equipamentos e muitas aplicações sendo utilizadas no campo e que se comunicam entre si é preciso garantir que as informações coletada estejam seguras evitando que sejam acessadas por terceiros e utilizadas de forma irregular.
+<b>4) Segurança:</b> como existem muitos equipamentos e muitas aplicações sendo utilizadas no campo e que se comunicam entre si é preciso garantir que as informações coletada estejam seguras evitando que sejam acessadas por terceiros e utilizadas de fimra irregular.
 
 <b>5) Node.JS:</b> para criação de soluções web de forma ágil você precisa conhecer esta biblioteca de desenvolvimento. Com ela é possível criar soluções robustas e com várias funcionalidades disponíveis.
 
 Estas são só algumas das habilidades que um profissional de IoT pode ter para ter um diferencial de mercado, porém existem outras habilidades mais ligadas a área de hardware e engenharia elétrica que podem ser aplicados na construção dos equipamentos de integração e comunicação utilizados no campo.
 
-Internet das Coisas ainda está crescendo muito e recebendo muito investimento, e vendo as habilidades requisitadas podemos concluir que existe espaço para muita gente atuar em conjunto para criar soluções completas e inovadoras para serem aplicadas no campos.
+A área ainda está crescendo muito e recebendo muito investimento, e vendo as habilidades requisitadas podemos concluir que existe espaço para muita gente atuar em conjunto para criar soluções completas e inovadoras para serem aplicadas no campos.
 
-Deixe sua opinião nos comentários, e nos vemos no próximo artigo.
+Vamos acompanhar as novidades que estão por vir nesta área. Deixe sua opinião nos comentários, e nos vemos no próximo artigo.
 
 <i>
 	<b>Fontes: </b><br/>
