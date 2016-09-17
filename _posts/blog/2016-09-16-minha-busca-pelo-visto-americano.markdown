@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "Lideres devem dedicar tempo às pessoas"
-date:   2016-09-14
+date:   2016-09-16
 author: Tonia Dias
 categories: 
 - blog
-- lideres
-- habilidades
-- gestao
-img: 20160914.png
+- visto
+- americano
+- viagem
+img: 20160916.png
 thumb: thumb-sustentabilidade.png
 comments: true
 ---
