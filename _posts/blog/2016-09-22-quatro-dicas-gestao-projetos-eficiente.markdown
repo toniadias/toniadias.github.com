@@ -15,7 +15,9 @@ comments: true
 
 Gerenciar projetos não é uma das atividades mais fáceis de se realizar dentro de uma empresa. Resolver conflitos, alinhar expectativas, monitorar equipe, controlar o orçamento, são só algumas das atividades que um gestor executa. Mas como podemos garantir que a atividade de gestão está sendo realizada de forma eficiente?<!--more-->
 
-O gestor de projetos tem o papel primordial para garantir que tudo seja realizado para que o trabalho tenha um começo um meio e um fim. Este papel deve gerenciar e monitorar todas as fases do projeto que estão sob sua responsabilidade, garantindo que a equipe esteja motivada e realize as atividades com qualidade. Para que se realize a gestão de forma eficaz, o Think About It separou 4 dicas que podem ser utilizadas para auxiliar ao gestor em seus projetos. Confira !
+O gestor de projetos tem o papel primordial para garantir que tudo seja realizado para que o trabalho tenha um começo um meio e um fim. Este papel deve gerenciar e monitorar todas as fases do projeto que estão sob sua responsabilidade, garantindo que a equipe esteja motivada e realize as atividades com qualidade. Para que se realize a gestão de forma eficaz.
+
+O Think About It separou 4 dicas que podem ser utilizadas para auxiliar ao gestor em seus projetos. Confira !
 
 <b>1. Defina a Estratégia da Empresa</b>
 
