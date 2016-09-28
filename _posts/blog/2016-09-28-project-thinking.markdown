@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "Project Thinking, como gerenciar projetos de forma diferente"
-date:   2016-09-29
+date:   2016-09-28
 author: Tonia Dias
 categories: 
 - blog
 - gestao
 - design
 - thinking
-img: 20160929.png
+img: 20160928.png
 thumb: thumb-sustentabilidade.png
 comments: true
 ---
@@ -21,7 +21,7 @@ A resposta é sim! Podemos aplicar os conceitos e técnicas de Design Thinking p
   <img src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAUGAAAAJGFiZTE2MzkxLTYwZDctNDNlNC1hMDM5LTBhMjI4OTY5MGQ0Ng.png" />
 </p>
 
-Quando o gestor foca somente nestes pontos, ele corre um alto risco de que seu projeto tenha grandes dificuldades de execução, pois você não considera a visão do cliente e seus desejos para o projeto, além de não analisar a viabilidade e se o projeto é praticável com os recursos que você têm disponíveis. Desta forma é necessário então mudar o <i>mindset</i> da gestão de projetos para que se possa pensar de forma diferenciada e criativa para solucionar um problema. Esta nova abordagem deve seguir 5 principais pilares, baseados nos conceitos de <i>Design Thinking</i>, sendo:
+Quando o gestor foca somente nestes pontos, ele corre um alto risco de que seu projeto tenha grandes dificuldades de execução, pois você não considera a visão do cliente e seus desejos para o projeto, além de não analisar a viabilidade e se o projeto é praticável com os recursos que você têm disponíveis. Desta forma é necessário então mudar o <i>mindset</i> (forma de pensar) da gestão de projetos para que se possa pensar de forma diferenciada e criativa para solucionar um problema. Esta nova abordagem deve seguir 5 principais pilares, baseados nos conceitos de <i>Design Thinking</i>, sendo:
 
 <p align="center">
   <img src="https://media.licdn.com/mpr/mpr/shrinknp_800_800/AAEAAQAAAAAAAAe9AAAAJDIwNmZjZWIxLTk0ZWEtNDY5Zi1hYTkwLTAwNGM3ZGNiYzAyNw.jpg" />
