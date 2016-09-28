@@ -17,6 +17,10 @@ O conceito de <b><i>Design Thinking</i></b> é um conjunto de métodos e process
 
 A resposta é sim! Podemos aplicar os conceitos e técnicas de Design Thinking para o gerenciamento de projetos, afinal esta é uma área que está cheia de desafios que precisam ser solucionados de forma rápida para que não afetem o resultado do projeto. No processo de gestão todos projetos devem se preocupar com a <i>Tríade da Gestão de Projetos ou Restrição Tripla</i>, pensando em:
 
+<br/>
+<br/>
+<br/>
+
 <p align="center">
   <img src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAUGAAAAJGFiZTE2MzkxLTYwZDctNDNlNC1hMDM5LTBhMjI4OTY5MGQ0Ng.png" />
 </p>
