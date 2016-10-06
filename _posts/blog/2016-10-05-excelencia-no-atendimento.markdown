@@ -35,7 +35,7 @@ Estas são só algumas das dicas apresentadas no livro. Você pode encontrar uma
 
 Outra boa fonte de conhecimento relacionada ao atendimento é o podcast Código Aberto do site B9, que entrevistou Juliana Nascimento uma Head of Client Services (chefe de atendimento ao cliente) na agência R/GA, onde ela relata um pouco da sua experiência com atendimento e boas práticas a serem realizadas nesta área. Ouça mais sobre o tema no podcast no site B9 em <a href="http://www.b9.com.br/67011/podcasts/codigoaberto/codigo-aberto-juliana-nascimento-head-de-atendimento-rga/">Código Aberto</a>.
 
-E você o que acha que o atendimento pode ser um diferencial na venda de seu produto / serviço ? Deixe sua opinião nos comentários, e nos vemos no próximo artigo !
+E você, acha que um atendimento diferencial pode dar valor na venda de seu produto / serviço? Deixe sua opinião nos comentários, e nos vemos no próximo artigo !
 
 <i>
 	<b>Referência: </b><br/>
