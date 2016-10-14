@@ -26,8 +26,3 @@ Conheça mais sobre o programa <i><b>"Pense Magro, Fique Magro"</b></i> no site 
 E como seus hábitos alimentares e sua motivação para prática de exercícios físicos tem afetado sua vida? Deixe seu comentário e vamos falar mais sobre o tema.
 
 Nos siga nas redes sociais instagram @blogthinkaboutit e Facebook "Think About It" e nos vemos no próximo artigo do #ThinkAboutIt !
-
-<i>
-	<b>Referência: </b><br/>
-	<a href="http://mdemulher.abril.com.br/estilo-de-vida/boa-forma/como-os-relogios-inteligentes-te-ajudam-a-ter-uma-rotina-mais-saudavel">M de Mulher</a><br/>
-</i>
