@@ -13,7 +13,7 @@ thumb: thumb-sustentabilidade.png
 comments: true
 ---
 
-Ter uma rotina diária e hábitos saudáveis é um assunto que vem sendo comentado cada vez mais na vida das pessoa, pois buscam uma orientação correta para alcançar os resultados o que é essencial para atingir o objetivo concreto: Vida Saudável. No artigo de hoje do #ThinkAboutIt vamos conhecer um pouco mais sobre o serviço de coaching para uma alimentação saudável oferecido pela <b>Team Focus Coach</b>.
+Ter uma rotina diária e hábitos saudáveis é um assunto que vem sendo comentado cada vez mais na vida das pessoa, pois buscam uma orientação correta para alcançar os resultados o que é essencial para atingir o objetivo concreto: Vida Saudável. No artigo de hoje do #ThinkAboutIt vamos conhecer um pouco mais sobre o serviço de coaching para uma alimentação saudável oferecido pela <b>Team Focus Coach</b>.<!--more-->
 
 Adquirir hábitos saudáveis é uma tarefa complicada pois envolve a mudança de hábitos e pensamentos que te levaram ao ganho de peso. Esta é uma luta diária contra si mesmo, e para dar o primeiro passo para mudança você deve procurar um serviço especializado que irá lhe orientar sobre qual deve ser a alimentação e suplementação correta para atender seu objetivo.
 
