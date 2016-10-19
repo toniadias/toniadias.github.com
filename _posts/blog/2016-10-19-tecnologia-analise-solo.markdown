@@ -23,7 +23,7 @@ Esta inovação levará o processo de análise para outro nível, e os agriculto
 
 Realmente o campo e o agronegócio cada vez mais nos surpreende com novas tecnologias. Aproveite as oportunidades e lance as ideias de inovação para o agronegócio, existe ainda muito mercado e muito desafio a ser solucionado no campo. Inovação é a chave para o sucesso !
 
-Nos siga nas redes sociais instagram@blogthinkaboutit e Facebook "Think About It" e nos vemos no próximo artigo do #ThinkAboutIt !
+Nos siga nas redes sociais instagram @blogthinkaboutit e Facebook "Think About It" e nos vemos no próximo artigo do #ThinkAboutIt !
 
 <i>
 	<b>Referência: </b><br/>
