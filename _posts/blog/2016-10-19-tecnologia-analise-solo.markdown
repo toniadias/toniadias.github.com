@@ -27,5 +27,5 @@ Nos siga nas redes sociais instagram @blogthinkaboutit e Facebook "Think About I
 
 <i>
 	<b>Referência: </b><br/>
-	<a href="https://www.embrapa.br/busca-de-noticias/-/noticia/17162564/tecnologia-inovadora-analisa-solos-em-apenas-30-segundos?link=agencia">Globo Rural</a><br/>
+	<a href="https://www.embrapa.br/busca-de-noticias/-/noticia/17162564/tecnologia-inovadora-analisa-solos-em-apenas-30-segundos?link=agencia">Embrapa</a><br/>
 </i>
