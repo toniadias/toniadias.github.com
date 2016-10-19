@@ -17,7 +17,7 @@ Atualmente no meio do agronegócio, um processo que é complicado e demorado de 
 
 Para solucionar este grande desafio e tornar a análise de solo mais ágil, a Embrapa em parceria com a iniciativa privada criou uma solução tecnológica denominada SpecSolo que realiza a análise de amostras coletadas do solo em apenas 30 segundos identificando o nível dos principais parâmetros diretamente ligados a produtividade sendo: pH, cálcio, magnésio, fósforo e potássio.
 
-A solução SpecSolo utiliza uma técnica denominada espectroscopia vibracional responsável pela separação dos elementos do solo para facilitar o processo de análise, e também inteligência artificial pois conta com uma base de dados robusta contendo diversos resultados de análise que podem ser utilziados como comparação para facilitar a obtenção do resultado.
+A solução SpecSolo utiliza uma técnica denominada espectroscopia vibracional responsável pela separação dos elementos do solo para facilitar o processo de análise, e também inteligência artificial pois conta com uma base de dados robusta contendo diversos resultados de análise que podem ser utilizados como comparação para facilitar a obtenção do resultado.
 
 Esta inovação levará o processo de análise para outro nível, e os agricultores poderão obter de forma muito mais rápida o resultado não precisando ficar esperando a realização de análise feita por um laboratório, agilizando o processo produtivo.
 
