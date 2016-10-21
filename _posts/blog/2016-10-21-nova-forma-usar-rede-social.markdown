@@ -35,9 +35,9 @@ A maior interação entre empresa e cliente ocorrerá através dos botões de a�
 
 Estas são algumas das novidades lançadas agora, mas que podem trazer uma infinidade de novas funcionalidades de comunicação e interação entre usuário e empresa facilitando a vida dos clientes.
 
-O que você acha desta nova forma de interação ? Deixe seu comentário em nossas redes sociais, Instagram @blogthinkaboutit, Facebook Think About It, ou aqui no site. 
+O que você acha desta nova forma de interação ? 
 
-Nos vemos no próximo artigo ! :) 
+Nos siga nas redes sociais instagram @blogthinkaboutit e Facebook "Think About It" e nos vemos no próximo artigo do #ThinkAboutIt ! 
 
 <i>
 	<b>Referência: </b><br/>
