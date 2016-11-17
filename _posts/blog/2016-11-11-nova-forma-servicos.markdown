@@ -38,7 +38,7 @@ Ainda é possível ter a transparência no acompanhamento dos preços e serviço
 "O objetivo principal do aplicativo era unir três pilares, a conveniência pois o cliente não perde tempo pessoal indo até a uma oficina, a transparência onde ele pode acompanhar os preços dos reparos via aplicativo, e a qualidade dos serviços que são feitos por oficinas especializadas mais indicadas para o tipo da manutenção solicitada." (relato de Daniel Daibert Angelo General Manager na Sweetworxx)
 
 <p align="center">
-    <iframe class="videoFrame" src="https://www.youtube.com/watch?v=44JjJcJLK5Q" frameborder="0" allowfullscreen></iframe> 
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/44JjJcJLK5Q" frameborder="0" allowfullscreen></iframe>
 </p>
 
 Visando agregar mais um pilar no aplicativo, a stratup pensa ainda futuramente incorporar um recurso de rastreamento do veículo para que o cliente acompanhe onde está seu automóvel, similar ao utilizado hoje pelo Uber para indicar onde está seu transporte, levando mais segurança ao cliente.
