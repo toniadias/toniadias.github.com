@@ -26,7 +26,7 @@ Estes estímulos visuais e auditivos quando apresentados ao usuário enganam seu
 Hoje no mercado brasileiro existem diversos modelos que permitem que você utilize seu celular para interagir com esta nova experiência virtual. Conheça neste vídeo um dos modelos disponíveis no mercado e qual é seu funcionamento.
 
 <p align="center">
-    <iframe class="videoFrame" src="https://www.youtube.com/watch?v=FuuirfHFG2M" frameborder="0" allowfullscreen></iframe> 
+    <iframe class="videoFrame" src="https://www.youtube.com/embed/FuuirfHFG2M" frameborder="0" allowfullscreen></iframe> 
 </p>
 
 Este é só o começo, pois muitas empresas já tem investido em outras áreas para utilização desta tecnologia. Algumas empresas agrícolas já estudam a aplicação desta tecnologia para acompanhamento de sua produção na lavoura, onde você poderá através de imagens do mundo real, combinadas com imagens virtuais monitorar o avanço de sua produção de alimentos. Outro caso de uso é o da empresa Castrol por exemplo, investiu em um aplicativo que permite que um piloto da Nascar consiga visualizar a experiência de pilotar somente com a realidade virtual, para possibilitar que o mesmo conheça os circuitos antecipadamente e saiba quais pontos pode aprimorar sua pilotagem.
