@@ -8,6 +8,11 @@ categories:
 - tecnologia
 - netflix
 - streaming
+- brasil
+- liberacao
+- filmes
+- series
+- offline
 img: 20161130.png
 thumb: thumb-sustentabilidade.png
 comments: true
