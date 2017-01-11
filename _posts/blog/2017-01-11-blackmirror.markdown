@@ -4,7 +4,7 @@ title:  "Black Mirror, tecnologia e um lado sombrio"
 date:   2017-01-11
 author: Tonia Dias
 categories: 
-
+- blog
 - tecnologia
 - obscuro
 - netflix
