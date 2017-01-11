@@ -4,10 +4,6 @@ html, body {
     height: 100%;
 }
 
-.container {
-    top: 90px !important;
-}
-
 .container-full {
   margin: 90px auto;
   width: 100%;
