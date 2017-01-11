@@ -13,12 +13,12 @@ layout: default
 
     <div class="row" style="margin: 2px;">
         <div class="col-xs-6" style="background-color: #FF0; ">
-            <small class="postAuthor"> Autor: {{ page.author }} </small>
+            <small class="postAuthor"> AUTOR(A): {{ page.author }} </small>
         </div>
         <div class="col-xs-6" style="background-color: #00F; text-align: right;">
             <small class="postDetailDate">
                 <span>{{ page.date | date: "%-d" }}</span>
-                <span>.</span>
+                <span>/</span>
                 <span>
                     {% assign month = page.date | date: "%-m" %}
                     {% case month %}
@@ -36,7 +36,7 @@ layout: default
                         {% when '12' %} DEZ
                     {% endcase %}
                 </span>
-                <span>.</span>
+                <span>/</span>
                 <span>{{ page.date | date: "%y" }}</span>
             </small>
         </div>
