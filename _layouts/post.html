@@ -17,7 +17,8 @@ layout: default
         </div>
         <div class="col-xs-6" style="background-color: #00F; text-align: right;">
             <small class="postDetailDate">
-                <span>{{ page.date | date: "%-d" }}.</span>
+                <span>{{ page.date | date: "%-d" }}</span>
+                <span>.</span>
                 <span>
                     {% assign month = page.date | date: "%-m" %}
                     {% case month %}
@@ -33,9 +34,10 @@ layout: default
                         {% when '10' %} OUT
                         {% when '11' %} NOV
                         {% when '12' %} DEZ
-                    {% endcase %}.
-                    {{ page.date | date: "%y" }}
+                    {% endcase %}
                 </span>
+                <span>.</span>
+                <span>{{ page.date | date: "%y" }}</span>
             </small>
         </div>
     </div>
