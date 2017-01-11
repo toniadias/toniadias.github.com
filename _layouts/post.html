@@ -11,10 +11,10 @@ layout: default
         </div>
     </div>
 
-    <img class="img-responsive" style="float: left; width: 450px; height: 300px; margin: 10px;"
+    <img class="img-responsive" style="float: left; width: 450px; height: 300px; margin: 10px; margin-left: 0px;"
              src="{{ "/assets/img/blog/" | prepend: site.baseurl }}{{ page.img }}" />
 
-    <div class="row">
+    <div class="row" style="margin: 5px;">
       <div class="col-sm-3" style="padding: 0px; margin: 0px;">
         <small class="postAuthor">
             Autor: {{ page.author }}
@@ -43,10 +43,10 @@ layout: default
             </span>
         </small>
       </div>
-      <div style="text-align: justify;">
+      <div style="text-align: justify; margin: 5px;">
         {{ content }}
       </div>
-      <div style="text-align: justify; position: relative;">
+      <div style="text-align: justify; margin: 5px; position: relative;">
         {% include comments.html %}
       </div>
     </div>
