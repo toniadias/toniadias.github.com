@@ -12,7 +12,7 @@ html, body {
 /* Theme Overrides */
 
 .navbar-brand {
-    font-family: Dosis;
+    font-family: Signika;
     font-size: 2.8em !important;
 }
 
@@ -57,7 +57,7 @@ html, body {
 }
 
 .postTitle {
-    font-family: Dosis;
+    font-family: Signika;
     color: #202020;
     margin-top: 10px;
     margin-bottom: 0px;
@@ -191,7 +191,7 @@ time.icon span {
 
 .bookTitle {
     padding: 5px !important;
-    font-family: Dosis !important;
+    font-family: Signika !important;
     font-size: 1.5em !important;
     font-weight: bold !important;
     text-align: center !important;
@@ -199,7 +199,7 @@ time.icon span {
 
 .bookSubtitle {
     padding: 5px !important;
-    font-family: Dosis !important;
+    font-family: Signika !important;
     font-size: 1.0em !important;
     font-weight: bold !important;
     text-align: center !important;
@@ -220,7 +220,7 @@ time.icon span {
     padding-right: 10px !important;
     padding-left: 10px !important;
 
-    font-family: Dosis !important;
+    font-family: Signika !important;
     font-size: 1.0em !important;
     font-weight: bold !important;
     text-align: center !important;
