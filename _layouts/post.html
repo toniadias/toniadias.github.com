@@ -11,11 +11,12 @@ layout: default
         </div>
     </div>
 
-    <img class="img-responsive" style="float: left; width: 450px; height: 300px; margin: 10px; margin-left: 0px;"
-         src="{{ "/assets/img/blog/" | prepend: site.baseurl }}{{ page.img }}" />
-
     <div class="row" style="margin: 2px;">
         <div class="row" style="margin: 2px;">
+            <div class="col-sm-6">
+                <img class="img-responsive" style="float: left; width: 450px; height: 300px; margin: 10px; margin-left: 0px;"
+                     src="{{ "/assets/img/blog/" | prepend: site.baseurl }}{{ page.img }}" />
+            </div>
             <div class="col-sm-3">
                 <small class="postAuthor"> Autor: {{ page.author }} </small>
             </div>
