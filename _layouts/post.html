@@ -16,7 +16,7 @@ layout: default
 
     <div class="row" style="margin: 2px;">
         <small class="postAuthor"> Autor: {{ page.author }} </small>
-        <small class="postDetailDate">
+        <small class="postDetailDate" style="float: right;">
             <span>{{ page.date | date: "%-d" }}.</span>
             <span>
                 {% assign month = page.date | date: "%-m" %}
