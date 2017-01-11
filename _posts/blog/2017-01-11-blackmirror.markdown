@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Black Mirror, tecnologia e um lado sombrio"
-date:   2017-01-10
+date:   2017-01-11
 author: Tonia Dias
 categories: 
 
@@ -9,7 +9,7 @@ categories:
 - obscuro
 - netflix
 - blackmirror
-img: 20170110.png
+img: 20170111.png
 thumb: thumb-sustentabilidade.png
 comments: true
 ---
